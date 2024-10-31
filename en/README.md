@@ -27,6 +27,8 @@ Thus, special relativity and general relativity should only serve as verificatio
 
 Our goal is not to deny or overturn a theory or doctrine, but to stand on the shoulders of these theories and doctrines to see further into the truth of the world.
 
+If you are a supporter of string theory, you can consider this the third superstring revolution. If you are a supporter of relativity, you might think I am challenging relativity, but neither is true. I am just a programmer simulating and debugging the world. For programmers, anything that can be described in language can be simulated, and if it can be simulated, it can be debugged. This is what I am doing, and turning this simulation into a foundational theory is the job of physicists.
+
 Our goal is to find a unified theory that unifies classical models, quantum mechanics, and relativity, without having to add dimensions infinitely like in string theory. Therefore, we must simplify and unify all physical phenomena onto a single underlying framework. Even if we cannot currently verify the correctness of this underlying framework, as long as this framework is simpler than the classical model and can unify all upper-level architectures, then this framework is advanced and valuable.
 
 Thus, we need to perform reverse engineering on the universe, on relativity, and on quantum mechanics.
