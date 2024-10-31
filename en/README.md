@@ -65,7 +65,6 @@ Recommended reading order for model theory:
 
 AI Prompt References:
 
-* [Initialization Prompt for Void Model Definition](AI%20Prompts/Initialization%20Prompt%20for%20Void%20Model%20Definition.txt)
 * [AI Verification and Derivation Prompt Reference](AI%20Prompts/AI%20Verification%20and%20Derivation%20Prompt%20Reference.md)
 
 AI Derivation Results:
