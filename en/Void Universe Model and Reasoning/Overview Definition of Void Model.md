@@ -41,12 +41,12 @@
 
 #### 5. **Four-Dimensional Vortex Fluid and Fate Gears**
 
-- **Fate Gears**: The oscillation of virtual particles in four-dimensional space manifests as cyclic rotations across three-dimensional space resembling gears, serving as the driving core of all physical phenomena, hence named "fate gears."
+- **Fate Gears**: The oscillation of virtual particles in four-dimensional space manifests as cyclic rotations across three-dimensional space resembling gears, serving as the driving core of all physical phenomena, hence named "fate gears".
 - **Positive and Negative Fate Gears**: Since the four-dimensional parts of virtual particles may reside in positive and negative four-dimensional spaces relative to our three-dimensional space, fate gears can be divided into positive and negative types, which are the sources of matter and antimatter.
 - **Vortex Structures**: High-dimensional virtual particles form a stable one-sided four-dimensional vortex structure when their "fate gears" rotate in three-dimensional space, engulfing a large number of void particles, serving as the basis of matter.
 - **Void Particle Streams**: This four-dimensional vortex structure manifests in three-dimensional space as void particle streams that seemingly appear and disappear from the void, while in four-dimensional space, it represents more complex hyperspace vortices, the root of electromagnetic forces and mass.
 - **Derivation Explanation** :
-  - Why are there "Fate Gears"?Because this was not my initial conception; its appearance was purely the result of rejecting multiple hypotheses during the process of reverse derivation. Eventually, I was left with no choice but to adopt an assumption that seemed extremely unreasonable. However, when I added this assumption to the model, all other parts of the model mysteriously became self-consistent, and it achieved an unprecedented level of perfection. It felt as if everything was guided by fate. Additionally, it is the key to the formation of our universe. Therefore, I call it the "Fate Gears" signifying the destiny of all things in the universe, and also my own destiny.
+  - Why is there the "Fate Gears"? Because this was not my initial conception; its appearance was purely the result of rejecting multiple hypotheses during the process of reverse derivation. Eventually, I was left with no choice but to adopt an assumption that seemed extremely unreasonable. However, when I added this assumption to the model, all other parts of the model mysteriously became self-consistent, achieving an unprecedented level of perfection. It felt as if everything was guided by fate. Additionally, within the model, it is the key to the formation of our universe. Therefore, I call it the "Fate Gears", signifying the destiny of all things in the universe, and also my own destiny..
 
 #### 6. **Formation of Matter**
 
