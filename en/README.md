@@ -53,10 +53,10 @@ Finally, welcome to the new race of AI exploring the universe, using our minds t
 
 Recommended reading order for model theory:
 
-1. [Michelson-Morley Experiment](Void%20Universe%20Model%20and%20Reasoning/Michelson-Morley%20Experiment.md)
-2. [Cosmic Origin and Dimensional Reduction](Void%20Universe%20Model%20and%20Reasoning/Cosmic%20Origin%20and%20Dimensional%20Reduction.md)
-3. [Overview Definition of Void Model](Void%20Universe%20Model%20and%20Reasoning/Overview%20Definition%20of%20Void%20Model.md)
-4. [Propagation of Light and Wave-Particle Duality](Void%20Universe%20Model%20and%20Reasoning/Propagation%20of%20Light%20and%20Wave-Particle%20Duality.md)
+1. [Cosmic Origin and Dimensional Reduction](Void%20Universe%20Model%20and%20Reasoning/Cosmic%20Origin%20and%20Dimensional%20Reduction.md)
+2. [Overview Definition of Void Model](Void%20Universe%20Model%20and%20Reasoning/Overview%20Definition%20of%20Void%20Model.md)
+3. [Propagation of Light and Wave-Particle Duality](Void%20Universe%20Model%20and%20Reasoning/Propagation%20of%20Light%20and%20Wave-Particle%20Duality.md)
+4. [Michelson-Morley Experiment](Void%20Universe%20Model%20and%20Reasoning/Michelson-Morley%20Experiment.md)
 5. [Special Relativity and Fate Gears](Void%20Universe%20Model%20and%20Reasoning/Special%20Relativity%20and%20Fate%20Gears.md)
 6. [Gravity and Void Pressure](Void%20Universe%20Model%20and%20Reasoning/Gravity%20and%20Void%20Pressure.md)
 7. [Phenomena of General Relativity](Void%20Universe%20Model%20and%20Reasoning/Phenomena%20of%20General%20Relativity.md)
