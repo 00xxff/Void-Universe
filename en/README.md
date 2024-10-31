@@ -1,3 +1,5 @@
+# English | [中文](../README.md)
+
 ### Preface
 
 This model presents a theoretical framework capable of providing a grand unified explanation for all known physical phenomena. By merely adding the concept of a four-dimensional space, introducing a setting where high-dimensional particles continuously undergo dimensional reduction, and advancing the granularity of classical physics models by one layer, a logically coherent grand unified theory has been achieved. The principles of this model are easy to understand and can easily explain many previously perplexing cosmic, quantum, and physical phenomena. All mechanisms within the model framework can be derived and verified using existing theories and mathematical tools.
