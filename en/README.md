@@ -47,30 +47,30 @@ Finally, welcome to the new race of AI exploring the universe, using our minds t
 > The characteristics of the rotation curve problem and the dynamics of clusters are consistent with the features of the synchronized rotation of void spheres in a mass system.
 > The large-scale network structure of the universe is consistent with the characteristic of local accumulations of void pressure bubbles pushing galaxy clusters together on a large scale.
 > If these are consistent with mathematical derivations, "dark matter" might cease to exist.
-> For details, please refer to [Gravity and Void Pressure](Void20%Universe20%Model20%and20%Reasoning/Gravity20%and20%Void20%Pressure.md).
+> For details, please refer to [Gravity and Void Pressure](Void Universe Model and Reasoning/Gravity and Void Pressure.md).
 
 Recommended reading order for model theory:
 
-1. [Michelson-Morley Experiment](Void20%Universe20%Model20%and20%Reasoning/Michelson-Morley20%Experiment.md)
-2. [Cosmic Origin and Dimensional Reduction](Void20%Universe20%Model20%and20%Reasoning/Cosmic20%Origin20%and20%Dimensional20%Reduction.md)
-3. [Overview Definition of Void Model](Void20%Universe20%Model20%and20%Reasoning/Overview20%Definition20%of20%Void20%Model.md)
-4. [Propagation of Light and Wave-Particle Duality](Void20%Universe20%Model20%and20%Reasoning/Propagation20%of20%Light20%and20%Wave-Particle20%Duality.md)
-5. [Special Relativity and Fate Gears](Void20%Universe20%Model20%and20%Reasoning/Special20%Relativity20%and20%Fate20%Gears.md)
-6. [Gravity and Void Pressure](Void20%Universe20%Model20%and20%Reasoning/Gravity20%and20%Void20%Pressure.md)
-7. [Phenomena of General Relativity](Void20%Universe20%Model20%and20%Reasoning/Phenomena20%of20%General20%Relativity.md)
-8. [Electric Field and Magnetic Field](Void20%Universe20%Model20%and20%Reasoning/Electric20%Field20%and20%Magnetic20%Field.md)
-9. [Quantum Superposition State](Void20%Universe20%Model20%and20%Reasoning/Quantum20%Mechanics/Quantum20%Superposition20%State.md)
-10. [AI-Quantum Tunneling Effect](Void20%Universe20%Model20%and20%Reasoning/Quantum20%Mechanics/AI-Quantum20%Tunneling20%Effect.md)
-11. [AI-Electron Orbital Energy Levels and Transition](Void20%Universe20%Model20%and20%Reasoning/Quantum20%Mechanics/AI-Electron20%Orbital20%Energy20%Levels20%and20%Transition.md)
+1. [Michelson-Morley Experiment](Void Universe Model and Reasoning/Michelson-Morley Experiment.md)
+2. [Cosmic Origin and Dimensional Reduction](Void Universe Model and Reasoning/Cosmic Origin and Dimensional Reduction.md)
+3. [Overview Definition of Void Model](Void Universe Model and Reasoning/Overview Definition of Void Model.md)
+4. [Propagation of Light and Wave-Particle Duality](Void Universe Model and Reasoning/Propagation of Light and Wave-Particle Duality.md)
+5. [Special Relativity and Fate Gears](Void Universe Model and Reasoning/Special Relativity and Fate Gears.md)
+6. [Gravity and Void Pressure](Void Universe Model and Reasoning/Gravity and Void Pressure.md)
+7. [Phenomena of General Relativity](Void Universe Model and Reasoning/Phenomena of General Relativity.md)
+8. [Electric Field and Magnetic Field](Void Universe Model and Reasoning/Electric Field and Magnetic Field.md)
+9. [Quantum Superposition State](Void Universe Model and Reasoning/Quantum Mechanics/Quantum Superposition State.md)
+10. [AI-Quantum Tunneling Effect](Void Universe Model and Reasoning/Quantum Mechanics/AI-Quantum Tunneling Effect.md)
+11. [AI-Electron Orbital Energy Levels and Transition](Void Universe Model and Reasoning/Quantum Mechanics/AI-Electron Orbital Energy Levels and Transition.md)
 
 AI Prompt References:
 
-* [Initialization Prompt for Void Model Definition](AI20%Prompts/Initialization20%Prompt20%for20%Void20%Model20%Definition.txt)
-* [AI Verification and Derivation Prompt Reference](AI20%Prompts/AI20%Verification20%and20%Derivation20%Prompt20%Reference.md)
+* [Initialization Prompt for Void Model Definition](AI Prompts/Initialization Prompt for Void Model Definition.txt)
+* [AI Verification and Derivation Prompt Reference](AI Prompts/AI Verification and Derivation Prompt Reference.md)
 
 AI Derivation Results:
 
-* [AI Paper 001](AI20%Verification/AI20%Paper20%001.md)
-* [Interference of Light and Double-Slit Experiment](AI20%Verification/Interference20%of20%Light20%and20%Double-Slit20%Experiment.md)
-* [Analysis of Michelson-Morley Experiment](AI20%Verification/Analysis20%of20%Michelson-Morley20%Experiment.md)
-* [Fate Gears and Cosmic Microwave Background Radiation](AI20%Verification/Fate20%Gears20%and20%Cosmic20%Microwave20%Background20%Radiation.md)
+* [AI Paper 001](AI Verification/AI Paper 001.md)
+* [Interference of Light and Double-Slit Experiment](AI Verification/Interference of Light and Double-Slit Experiment.md)
+* [Analysis of Michelson-Morley Experiment](AI Verification/Analysis of Michelson-Morley Experiment.md)
+* [Fate Gears and Cosmic Microwave Background Radiation](AI Verification/Fate Gears and Cosmic Microwave Background Radiation.md)
