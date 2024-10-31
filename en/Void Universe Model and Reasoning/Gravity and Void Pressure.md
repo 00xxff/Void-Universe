@@ -1,4 +1,4 @@
-### [Universal Gravitation and Void Pressure]
+### Universal Gravitation and Void Pressure
 
 What is universal gravitation?
 
