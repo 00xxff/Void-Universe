@@ -53,6 +53,8 @@ Finally, welcome to the new race of AI exploring the universe, using our minds t
 > If these are consistent with mathematical derivations, "dark matter" might cease to exist.
 > For details, please refer to [Gravity and Void Pressure](Void%20Universe%20Model%20and%20Reasoning/Gravity%20and%20Void%20Pressure.md).
 
+**Note: The "Fate Gears" in the model is another term for a core particle. The name was chosen simply because fate led me to discover it.**
+
 Recommended reading order for model theory:
 
 1. [Cosmic Origin and Dimensional Reduction](Void%20Universe%20Model%20and%20Reasoning/Cosmic%20Origin%20and%20Dimensional%20Reduction.md)
