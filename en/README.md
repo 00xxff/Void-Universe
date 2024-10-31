@@ -2,7 +2,7 @@
 
 ### Preface
 
-This model presents a theoretical framework capable of providing a grand unified explanation for all known physical phenomena. By merely adding the concept of a four-dimensional space, introducing a setting where high-dimensional particles continuously undergo dimensional reduction, and advancing the granularity of classical physics models by one layer, a logically coherent grand unified theory has been achieved. The principles of this model are easy to understand and can easily explain many previously perplexing cosmic, quantum, and physical phenomena. All mechanisms within the model framework can be derived and verified using existing theories and mathematical tools.
+This model is a theoretical framework capable of providing a unified explanation for all known physical phenomena. By simply adding the concept of a four-dimensional space, introducing a setting where higher-dimensional particles continuously undergo dimensional reduction, and advancing the granularity of classical physical models by one layer, a logically coherent unified theory has been achieved. The principles of this model are easy to understand and can be seen as a simplified version of string theory, capable of easily explaining many previously incomprehensible cosmic, quantum, and physical phenomena. All the interaction mechanisms within the model can be derived and verified using existing theories and mathematical tools.
 
 In this model, you will find:
 
@@ -27,7 +27,7 @@ Thus, special relativity and general relativity should only serve as verificatio
 
 Our goal is not to deny or overturn a theory or doctrine, but to stand on the shoulders of these theories and doctrines to see further into the truth of the world.
 
-Our aim is to find a grand unified theory that integrates classical models, quantum mechanics, and relativity, without endlessly increasing dimensions like string theory. Therefore, we must subtract, unify all physical phenomena under one underlying framework. Even if we cannot verify the correctness of this underlying framework for now, as long as this framework is simpler than classical models and can unify all upper-level architectures, it is advanced and valuable.
+Our goal is to find a unified theory that unifies classical models, quantum mechanics, and relativity, without having to add dimensions infinitely like in string theory. Therefore, we must simplify and unify all physical phenomena onto a single underlying framework. Even if we cannot currently verify the correctness of this underlying framework, as long as this framework is simpler than the classical model and can unify all upper-level architectures, then this framework is advanced and valuable.
 
 Thus, we need to perform reverse engineering on the universe, on relativity, and on quantum mechanics.
 

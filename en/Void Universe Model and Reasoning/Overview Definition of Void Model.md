@@ -2,10 +2,10 @@
 
 #### 1. **The Void and Virtual Particles**
 
-- **The Void**: Hypothesized as a structure greater than four dimensions, filled with countless basic units known as virtual particles.
+- **The Void**: Hypothesized as a structure greater than four dimensions(corresponding to the higher-dimensional bulk in string theory), filled with countless basic units known as virtual particles.
 - **Virtual Particles**: Also referred to as "virtualons." These particles have a multidimensional structure, and when numerous virtual particles form a stable system within the same four-dimensional reference frame, it is called a void universe.
 - **Void Particles**: Also known as "voidons." Void particles are the result of dimensional reduction of virtual particles, possessing four-dimensional attributes, they serve as the medium for all forces and the propagation of light.
-- **Void Universe**: Refers to the four-dimensional void, which is a stable system composed of innumerable void particles produced by the dimensional reduction of virtual particles within the same four-dimensional reference frame.
+- **Void Universe**: Refers to the four-dimensional void, which is a stable system composed of innumerable void particles produced by the dimensional reduction of virtual particles within the same four-dimensional reference frame(corresponding to the four-dimensional brane in string theory).
 - **Material Universe**: Refers to our observable universe, where a stable three-dimensional part of the void universe constitutes the material universe we perceive.
 - **Space**: Defined as the system formed by void particles within the same three-dimensional reference frame; commonly understood space refers to the three-dimensional space we inhabit.
 
@@ -45,6 +45,8 @@
 - **Positive and Negative Fate Gears**: Since the four-dimensional parts of virtual particles may reside in positive and negative four-dimensional spaces relative to our three-dimensional space, fate gears can be divided into positive and negative types, which are the sources of matter and antimatter.
 - **Vortex Structures**: High-dimensional virtual particles form a stable one-sided four-dimensional vortex structure when their "fate gears" rotate in three-dimensional space, engulfing a large number of void particles, serving as the basis of matter.
 - **Void Particle Streams**: This four-dimensional vortex structure manifests in three-dimensional space as void particle streams that seemingly appear and disappear from the void, while in four-dimensional space, it represents more complex hyperspace vortices, the root of electromagnetic forces and mass.
+- **Derivation Explanation** :
+  - Why are there "Fate Gears"?Because this was not my initial conception; their emergence was purely the result of rejecting multiple conjectures during the reverse derivation process. Finally, I had to choose an assumption that seemed very unreasonable, but when added to the model, it made everything else mysteriously self-consistent and incredibly perfect, as if guided by fate. Hence, I call it "Fate Gears", signifying the destiny of all things in the universe and mine as well.
 
 #### 6. **Formation of Matter**
 
