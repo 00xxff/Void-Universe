@@ -13,9 +13,9 @@ If we consider the Fate Gears as the energy core of matter, and the Void Particl
 
 The vortex formed by Void Particles driven by Fate Gears in four-dimensional space creates a through-flow structure that spans three-dimensional space. Because these vortices flow in different directions, they create fields in four-dimensional space with varying flow directions of Void Particles, i.e., electric fields. We define the polarity jets of Void Particles in four-dimensional space based on the direction of electric fields in classical physics: positive charges flow outward, and negative charges inward. The vortex driven by Fate Gears from the negative pole of the fourth dimension to the positive pole is defined as the positive electric field (three-dimensionally flowing outward toward the positive pole of the fourth dimension); the vortex from the positive pole to the negative pole is defined as the negative electric field (flowing inward from the positive pole of the fourth dimension toward three-dimensional space).
 
-![Image text](../../虚空宇宙模型及推理/经典物理模型/media/中微子假想图.png)
+![Image text](../../虚空宇宙模型及推理/标准模型/media/中微子假想图.png)
 
-![Image text](../../虚空宇宙模型及推理/经典物理模型/media/中微子概念图.png)
+![Image text](../../虚空宇宙模型及推理/标准模型/media/中微子概念图.png)
 
 Let's first attempt to assemble an electron in the positive universe:
 We assume that three positive Fate Gears located at the positive pole of the fourth dimension, whose rotation direction is from the fourth to the third dimension, are combined (qqq combination), forming a stable triangular structure. At the center of the triangle, three negative electric field vortices merge into a large stream of Void Particles flowing from the positive pole of the fourth dimension to the negative pole. Some of this stream follows the Fate Gears to form an external jet in three-dimensional space, while another part continues to be drawn back into the fourth dimension's positive pole, creating a closed-loop flow.
@@ -24,9 +24,9 @@ Thus, we obtain a negatively charged (positive) electron. The core stream of thi
 
 Under normal circumstances, around the atomic nucleus, a spherical vortex region of Void Particles forms due to the positive charge, reaching a balance with the electron's jets. This self-circulating vortex isolates external disturbances of Void Particle streams, directly limiting the range of electron movement.
 
-![Image text](../../虚空宇宙模型及推理/经典物理模型/media/电子互斥概念图.png)
+![Image text](../../虚空宇宙模型及推理/标准模型/media/电子互斥概念图.png)
 
-![Image text](../../虚空宇宙模型及推理/经典物理模型/media/正反电子相吸概念图.png)
+![Image text](../../虚空宇宙模型及推理/标准模型/media/正反电子相吸概念图.png)
 
 Next, we analyze the interaction of electric fields:
 The repulsion between like charges occurs because their four-dimensional Void Particle streams flow in the same direction, creating fluid polarity. Thus, the interaction of differently charged four-dimensional Void Particle streams causes pressure differences in four-dimensional space, leading to the phenomenon of like charges repelling and opposite charges attracting.
@@ -40,7 +40,7 @@ When other charged particles move within these two vortex ranges, affected by th
 
 When two magnetic field vortices approach each other, they produce local low-pressure areas due to the same precession direction, leading to the phenomenon of opposite poles attracting and like poles repelling.
 
-![Image text](../../虚空宇宙模型及推理/经典物理模型/media/电子运动磁场概念图.png)
+![Image text](../../虚空宇宙模型及推理/标准模型/media/电子运动磁场概念图.png)
 
 Other fundamental particle compositions:
 

@@ -27,18 +27,17 @@ The principle of this model is straightforward and can easily elucidate many pre
 
 **Note: The "Fate Gears" in the model are placeholders for a core particle. This name is used because, in this model, the universe exists because of it, representing the fate of all things in the universe. (For more information, see [Hypothesis of the Origin of the Universe](Void%20Universe%20Model%20and%20Reasoning/Hypothesis%20of%20the%20Origin%20of%20the%20Universe.md))**
 
-
-![Image text](../虚空宇宙模型及推理/经典物理模型/media/中微子概念图.png)
-![Image text](../虚空宇宙模型及推理/经典物理模型/media/反中微子概念图.png)
+![Image text](../虚空宇宙模型及推理/标准模型/media/中微子概念图.png)
+![Image text](../虚空宇宙模型及推理/标准模型/media/反中微子概念图.png)
 
 1. [Hypothesis of the Origin of the Universe](Void%20Universe%20Model%20and%20Reasoning/Hypothesis%20of%20the%20Origin%20of%20the%20Universe.md)
 2. [Electric Field and Magnetic Field](Void%20Universe%20Model%20and%20Reasoning/Electric%20Field%20and%20Magnetic%20Field.md)
-2. [Overview Definition of Void Model](Void%20Universe%20Model%20and%20Reasoning/Overview%20Definition%20of%20Void%20Model.md)
-3. [Propagation of Light and Wave-Particle Duality](Void%20Universe%20Model%20and%20Reasoning/Propagation%20of%20Light%20and%20Wave-Particle%20Duality.md)
-4. [Michelson-Morley Experiment](Void%20Universe%20Model%20and%20Reasoning/Michelson-Morley%20Experiment.md)
-5. [Special Relativity and Fate Gears](Void%20Universe%20Model%20and%20Reasoning/Special%20Relativity%20and%20Fate%20Gears.md)
-6. [Gravity and Void Pressure](Void%20Universe%20Model%20and%20Reasoning/Gravity%20and%20Void%20Pressure.md)
-7. [Phenomena of General Relativity](Void%20Universe%20Model%20and%20Reasoning/Phenomena%20of%20General%20Relativity.md)
+3. [Overview Definition of Void Model](Void%20Universe%20Model%20and%20Reasoning/Overview%20Definition%20of%20Void%20Model.md)
+4. [Propagation of Light and Wave-Particle Duality](Void%20Universe%20Model%20and%20Reasoning/Propagation%20of%20Light%20and%20Wave-Particle%20Duality.md)
+5. [Michelson-Morley Experiment](Void%20Universe%20Model%20and%20Reasoning/Michelson-Morley%20Experiment.md)
+6. [Special Relativity and Fate Gears](Void%20Universe%20Model%20and%20Reasoning/Special%20Relativity%20and%20Fate%20Gears.md)
+7. [Gravity and Void Pressure](Void%20Universe%20Model%20and%20Reasoning/Gravity%20and%20Void%20Pressure.md)
+8. [Phenomena of General Relativity](Void%20Universe%20Model%20and%20Reasoning/Phenomena%20of%20General%20Relativity.md)
 9. [Quantum Superposition State](Void%20Universe%20Model%20and%20Reasoning/Quantum%20Mechanics/Quantum%20Superposition%20State.md)
 10. [AI-Quantum Tunneling Effect](Void%20Universe%20Model%20and%20Reasoning/Quantum%20Mechanics/AI-Quantum%20Tunneling%20Effect.md)
 11. [AI-Electron Orbital Energy Levels and Transition](Void%20Universe%20Model%20and%20Reasoning/Quantum%20Mechanics/AI-Electron%20Orbital%20Energy%20Levels%20and%20Transition.md)
