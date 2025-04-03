@@ -5,7 +5,7 @@ baseurl: "/Void-Universe"  # 如果不是根目录（如项目页）
 author:
   name: "0xff"
   email: "0xff@sina.com"
-theme: minima           # 使用基础主题（可覆盖）
+# theme: minima           # 使用基础主题（可覆盖）
 markdown: kramdown      # 支持 LaTeX
 kramdown:
   math_engine: mathjax  # 启用公式渲染
