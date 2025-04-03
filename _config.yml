@@ -1,0 +1,7 @@
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  math_engine: mathjax       # 使用 MathJax 渲染引擎
+  syntax_highlighter: rouge  # 可选，用于代码高亮
+plugins:
+  - jekyll-relative-links
