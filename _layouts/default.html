@@ -78,7 +78,7 @@
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
     </header>
     
     <main>
@@ -86,7 +86,7 @@
     </main>
     
     <footer>
-        <p>© {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+        <a href="https://github.com/00xxff/Void-Universe">© {{ 'now' | date: "%Y" }} {{ site.title }}</a>
     </footer>
 
     <!-- 动态替换 .md 为 .html -->
