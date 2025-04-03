@@ -64,5 +64,23 @@
   <div class="container">
     {{ content }}  <!-- 页面内容注入 -->
   </div>
+    <!-- 动态替换 .md 为 .html -->
+    <script>
+        // 等待 DOM 完全加载
+        document.addEventListener('DOMContentLoaded', function () {
+          // 查找所有 <a> 标签
+          const links = document.querySelectorAll('a');
+    
+          // 遍历每个链接
+          links.forEach(link => {
+            let href = link.getAttribute('href');
+            if (href && href.endsWith('.md')) {
+              // 将 .md 替换为 .html
+              href = href.replace(/\.md$/, '.html');
+              link.setAttribute('href', href);
+            }
+          });
+        });
+      </script>
 </body>
 </html>
