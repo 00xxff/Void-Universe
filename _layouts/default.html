@@ -3,7 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title | default: site.title }}</title>
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="keywords" content="虚空宇宙,大统一理论,中微子,以太,四维空间,Void Universe,grand unified theory,Neutrinos,ether,four-dimensional space">
+  
+  <!-- Canonical URL (避免重复内容) -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
+  <!-- OpenGraph (Facebook/Twitter 分享优化) -->
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ '/assets/og-image.jpg' | absolute_url }}"> <!-- 替换为你的社交分享图片 -->
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description }}">
+  <meta name="twitter:image" content="{{ '/assets/og-image.jpg' | absolute_url }}">
+  
+  <!-- 结构化数据 (Schema.org) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ site.title }}",
+      "url": "{{ site.url }}",
+      "description": "{{ site.description }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author.name }}"
+      }
+    }
+  </script>
+
   <!-- 自定义 CSS -->
   <style>
     /* 基础样式 */
@@ -44,6 +78,19 @@
         padding: 10px;
     font-size: 0.95em;
     }
+    }
+    /* 图片懒加载 */
+    img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    loading: lazy; /* 延迟加载 */
+    }
+
+    /* 防止布局偏移 */
+    img[loading="lazy"] {
+    background: #f5f5f5;
     }
   </style>
   <!-- MathJax 公式渲染 -->
