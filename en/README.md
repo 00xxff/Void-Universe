@@ -1,7 +1,5 @@
 # English | [中文](../README.md)
 
-Recommended reading order for model theory:
-
 ### Preface
 
 This model is an attempt to provide a unified explanation of all known physical phenomena through a reverse engineering project. It offers a complete four-dimensional universe explanatory framework for those who accept the four-dimensional universe concept.
@@ -23,6 +21,8 @@ Within this model, you will find:
 ![Image text](../虚空宇宙模型及推理/标准模型/media/中微子概念图.png)
 ![Image text](../虚空宇宙模型及推理/标准模型/media/反中微子概念图.png)
 ![Image text](../虚空宇宙模型及推理/标准模型/media/万有引力概念图.png)
+
+Recommended reading order for model theory:
 
 1. [Void Universe Hypothesis](Void%20Universe%20Model%20and%20Reasoning/Void%20Universe%20Hypothesis.md)
 2. [Overview Definition of Void Model](Void%20Universe%20Model%20and%20Reasoning/Overview%20Definition%20of%20Void%20Model.md)
