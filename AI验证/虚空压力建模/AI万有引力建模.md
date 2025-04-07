@@ -1,4 +1,4 @@
-### **虚空引力环流模型（VGCM）推导**
+### **虚空引力模型推导**
 
 ---
 
@@ -29,7 +29,7 @@
     - $K(\rho, p) = w(\rho, r) \cdot p$
 - **三维膜嵌入** $\Sigma^3 \hookrightarrow \mathcal{M}^4$：
 
-  - 我们的三维宇宙就像是一张纸夹在四维空间中，这张纸被称为“三维膜”。
+  - 我们的三维宇宙就像是一张纸夹在四维空间中，这张纸被称为“三维膜”。（注意：三维膜在四维径向上没有厚度，或者说厚度是1）
   - 在三维膜中，虚空粒子流在正反四维空间之间的压力平衡形成了稳定的三维空间。
   - 平衡条件：引入膜张力项 $\sigma K_A$，确保膜稳定性：
 
@@ -184,13 +184,13 @@ $$
 - **等效势**：$\Phi_{\text{eff}} = \frac{1}{2}(v^4)^2 + \int \frac{v^\theta}{r} \frac{\partial v^4}{\partial \theta} dr$。
 - **牛顿极限**：当 $v^\theta \to 0$ 时，恢复经典引力形式：
   $$
-  g(r) = -\nabla \Phi_{\text{eff}} \approx \frac{GM}{r^2}.
+  g(r) = -\nabla \Phi_{\text{eff}} \approx \frac{GM}{r^2}
   $$
 
 ##### **3.4 光线偏折的新解释**
 
 **传统问题**：广义相对论将偏折解释为时空弯曲
-**VGCM机制**：
+**虚空模型机制**：
 
 $$
 \Delta \theta = \int \frac{\nabla_\perp v^{\text{3D}}}{c} \, dl \approx \frac{4GM}{c^2 b}
@@ -232,7 +232,8 @@ $$
   V(r) = \sigma_{\text{flux}} r - \frac{\alpha}{r}
   $$
 
-  其中：- $ \sigma_{\text{flux}} \sim \rho v_\theta^2|_{\text{core}} $ 表示涡流链的张力。
+  其中：
+  - $ \sigma_{\text{flux}} \sim \rho v_\theta^2|_{\text{core}} $ 表示涡流链的张力。
   - $ -\frac{\alpha}{r} $ 表示短程排斥效应。
 
 ---
@@ -332,7 +333,7 @@ $$
 - **速度分布**：
 
   $$
-  v_{\text{circ}}^2(r) = \frac{GM}{r} + r \frac{d}{dr} \left( \int \omega(r) dr \right),
+  v_{\text{circ}}^2(r) = \frac{GM}{r} + r \frac{d}{dr} \left( \int \omega(r) dr \right)
   $$
 
   - 当 $\omega(r) \propto r^{-1}$ 时，可拟合观测到的平坦旋转曲线。
