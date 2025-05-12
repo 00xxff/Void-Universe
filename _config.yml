@@ -1,0 +1,12 @@
+title: 虚空宇宙(Void Universe)
+description: 一个基于四维空间的大统一模型(A Grand Unified Model Based on Four Dimensional Space)
+url: "https://00xxff.github.io"  # 你的 GitHub Pages 地址
+baseurl: "/Void-Universe"  # 如果不是根目录（如项目页）
+author:
+  name: "0xff"
+  email: "0xff@sina.com"
+# theme: minima           # 使用基础主题（可覆盖）
+markdown: kramdown      # 支持 LaTeX
+kramdown:
+  math_engine: mathjax  # 启用公式渲染
+  syntax_highlighter: rouge
