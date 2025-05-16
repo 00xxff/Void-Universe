@@ -194,70 +194,73 @@ Since these collision events, when repeated, achieve over 99.999% similarity at 
 
 ### 6. Relativistic Effects
 
-* In this model, the entire universe is a dynamically balanced three-dimensional "membrane," with the void constantly expanding. All mass systems are in relative motion, and the formation mechanisms of the four fundamental forces are independent of the overall inertial state of the mass systems. Therefore, physical laws are the same in all inertial frames.
-* In this model, the speed of light in a vacuum is constant, determined by the density of void particles in the vacuum, so the speed of light remains unchanged. The measurement of the speed of light in different reference frames involves the method of measurement. For instance, if we measure the speed of light in a sealed vacuum container (excluding the effects of gravity), then the measured speed of light will be the same in any inertial reference frame. The commonly referred inertial reference frames conform to this sealed condition, such as inside a spacecraft cabin or within a planet's closed gravitational field environment. Within these "closed" inertial reference frames, the speed of light depends only on the density of void particles and is independent of the inertial motion state of the entire reference frame.
-  These two points satisfy the principle of special relativity’s special relativity and the constancy of the speed of light, so this model is compatible with special relativity (i.e., it can derive related formulas of special relativity).
-  However, this model believes that we can completely derive the Lorentz transformation formula using relative spatial displacement without introducing an additional time dimension. Time is just an intermediate variable in the derivation process.
+* In this model, the entire universe is a dynamically balanced three-dimensional "membrane," with the void constantly expanding. All mass systems are in relative motion, and the formation mechanisms of the four fundamental forces are independent of the overall inertial state of the mass system. Therefore, the physical laws are the same in all inertial frames.
+* In this model, the speed of light in a vacuum is constant, determined by the density of void particles in the vacuum; hence, the speed of light remains invariant. The measurement of the speed of light in different reference frames involves a methodological issue. If we measure the speed of light in a sealed vacuum container (excluding gravitational effects), then the speed of light measured in any inertial reference frame will be the same. The inertial reference frames we conventionally refer to fit this sealed scenario, such as inside a spaceship's cabin or within a planet’s enclosed gravitational field environment. In these "enclosed" inertial reference frames, the speed of light depends only on the density of void particles and not on the inertial motion state of the entire reference frame.
+  These two points satisfy the special principle of relativity and the constancy of the speed of light in special relativity, so this model is compatible with special relativity (i.e., it can derive relevant formulas of special relativity).
+  However, this model posits that we can entirely derive the Lorentz transformation formula using relative spatial displacement without introducing an extra time dimension, where time serves merely as an intermediate variable in the derivation process.
 
-For some special physical phenomena derived from time transformations in special relativity, we can provide the following explanations:
-In this model, the relativistic effects (time dilation, mass increase, length contraction) mainly apply to **high-energy experimental results of microscopic particles**, rather than directly to macroscopic large mass systems. These effects can be explained through the dynamic properties of virtual particles (fate gears) and void particle flows at the core of microscopic particles. Below is a specific analysis of each effect:
+For some specific physical phenomena derived from time transformations in special relativity, we can provide the following explanations:
+In this model, relativistic effects (time dilation, mass increase, length contraction) mainly apply to **high-energy experimental results of microscopic particles** rather than directly to macroscopic mass systems. These effects can be explained through the dynamic characteristics of virtual particles (fate gears) and void particle flows at the core of microscopic particles. The following is a detailed analysis of each effect:
 
-#### **(1) Time Dilation**
+#### **Time Dilation**
 
-- **Phenomenon Description**: In high-energy experiments, the lifetime of unstable particles (such as muons) will extend as their velocity increases.
+- **Phenomenon Description**: In high-energy experiments, the lifetime of unstable particles (such as muons) extends as their velocity increases.
 - **Mechanism Explanation**:
-  - In this model, the fundamental reason for time dilation is the influence of **changes in void particle flow density** on the stability of particle systems.
-  - When a microscopic particle moves at high speed, the fate gear at its core will collide with more void particles, leading to a significant increase in the density of void particle flows around it.
-  - This density increase makes the void particle vortex around the fate gear more stable, thereby delaying the collapse process of the unstable particle structure. In other words, higher void particle density provides stronger external pressure, maintaining the balance state of the particle system for a longer time.
+  - In this model, the fundamental reason for time dilation is the impact of changes in the density of void particle flows on the stability of particle systems.
+  - When a microscopic particle moves at high speed, the fate gear at its core collides with more void particles head-on, causing a significant increase in the density of void particle flows around it.
+  - This increased density stabilizes the void particle vortices around the fate gear, thereby delaying the collapse process of the unstable particle structure. In other words, higher void particle density provides stronger external pressure, maintaining the particle system's equilibrium state for a longer period.
   - Therefore, from the perspective of an external observer, the particle's lifetime extends, manifesting as time dilation.
 
-#### **(2) Mass Increase**
+#### **Mass Increase**
 
-- **Phenomenon Description**: In high-energy experiments, the mass of microscopic particles increases as their velocity increases. When the velocity reaches $v = 0.866c$, the relativistic mass of the particle is approximately twice its rest mass.
+- **Phenomenon Description**: In high-energy experiments, the mass of microscopic particles increases with velocity. When the velocity reaches $v = 0.866c$, the particle’s relativistic mass is approximately twice its rest mass.
 - **Mechanism Explanation**:
-  - In this model, the increase in mass is due to **the addition of an extra three-dimensional void particle flow in the direction of motion caused by the increase in velocity in three-dimensional space**.
-  - Specifically, when a microscopic particle moves at high speed, the fate gear at its core will collide with more void particles. These void particles form a new fluid system in three-dimensional space and the three-dimensional direction in four-dimensional space, consistent with the particle's direction of motion.
-  - When the particle's velocity reaches $v = 0.866c$, the velocity of this newly formed three-dimensional void particle flow equals the original four-dimensional void particle flow velocity of the fate gear. At this point, the core of the particle has effectively gained another void particle flow system with the same density and equal velocity, causing its total momentum to double.
-  - According to the definition in this model, mass is proportional to the total momentum of the void particle circulation system. Therefore, when the velocity reaches $v = 0.866c$, the particle's mass increases by one fold.
-  - It should be noted that this mass increase applies only to microscopic particles and cannot be simply generalized to macroscopic large mass systems.
+  - In this model, the mass of fundamental particles originates from the total kinetic energy of the four-dimensional void particle circulation driven by the "fate gear" at their core. Differences in mass among particles can be attributed to the number of fate gears, their combination methods (topological structures), and the complexity of the driven circulation.
+  - When a microscopic particle moves at high speed, the fate gear at its core collides head-on with more void particles. These void particles form new fluid systems in three-dimensional and four-dimensional spaces, aligned with the direction of the particle’s motion. This additional void particle flow can be seen as a "dynamic supplementary circulation," superimposed on the particle's original four-dimensional circulation.
+  - According to renormalization group flow theory, the total mass of the particle is the sum of the kinetic contributions of all circulations (including the original static circulation and the newly added dynamic circulation). As the particle’s velocity increases, the strength of the dynamic supplementary circulation gradually increases, leading to an increase in total kinetic energy.
+  - When the particle’s velocity reaches $v = 0.866c$, the speed of the dynamic supplementary circulation equals the speed of the original four-dimensional circulation of the fate gear. At this point, the total kinetic energy of the circulation doubles, manifesting as a doubling of mass.
+  - The essence of this mass increase can be understood through the evolution of the renormalization group flow: as the velocity increases, the effective energy scale of the particle system changes, and the distribution and intensity of the void particle circulation adjust accordingly, leading to a relativistic change in mass.
+  - It should be noted that this mass increase applies only to microscopic particles and cannot be simply generalized to macroscopic mass systems.
 
-#### **(3) Length Contraction**
+#### **Length Contraction**
 
 - **Phenomenon Description**: In high-energy experiments, the effective collision cross-section of microscopic particles in the direction of motion decreases as their velocity increases.
 - **Mechanism Explanation**:
-  - In this model, the effect of length contraction can be attributed to **the compression of the range of void particle flow in the direction of motion**.
-  - When a microscopic particle moves at high speed, the fate gear at its core will experience stronger void particle impacts in the direction of motion. This impact compresses the range of void particle flow in the direction of motion.
-  - This compression effect directly affects the particle's collision cross-section, reducing its effective size in the direction of motion. From an experimental observation standpoint, this manifests as length contraction.
+  - In this model, the effect of length contraction can be attributed to the compression of the range of influence of void particle flow in the direction of motion.
+  - When a microscopic particle moves at high speed, the fate gear at its core experiences stronger impacts from void particles in the direction of motion. This impact compresses the range of void particle flow in the direction of motion.
+  - This compression effect directly affects the collision cross-section of the particle, reducing its effective size in the direction of motion. From an experimental observation standpoint, this manifests as length contraction.
   - Similarly, this effect applies only to microscopic particles and cannot be directly applied to macroscopic objects.
 
-#### **(4) Special Characteristics of Macroscopic Large Mass Systems**
+#### **Special Characteristics of Macroscopic Mass Systems**
 
-- In this model, relativistic effects (time dilation, mass increase, length contraction) are primarily explanations for **high-energy experimental results of microscopic particles**, not universally applicable to all physical systems.
-- For **macroscopic large mass systems**, which are composed of a large number of microscopic particles, interactions between these particles and the overall structure may shield or weaken the relativistic effects of individual particles. Therefore, macroscopic large mass systems moving at high speeds may not exhibit the same relativistic effects as microscopic particles.
+- In this model, relativistic effects (time dilation, mass increase, length contraction) primarily explain **high-energy experimental results of microscopic particles**, rather than being universally applicable to all physical systems.
+- For **macroscopic mass systems**, composed of a large number of microscopic particles, the interactions and overall structure between these particles may shield or weaken the relativistic effects of individual particles. Therefore, macroscopic mass systems may not exhibit the same relativistic effects as microscopic particles when moving at high speeds.
 - For example:
-  - Whether the passage of time in macroscopic objects is affected by relativistic effects depends on the average behavior of their internal microscopic particles and the overall system dynamics.
-  - Changes in mass and length contraction in macroscopic objects may require more complex analyses, especially involving the dynamic effects of gravitational fields and void spheres.
+  - Whether the passage of time in a macroscopic object is affected by relativistic effects depends on the average behavior of its internal microscopic particles and the dynamic characteristics of the overall system.
+  - Changes in the mass and length contraction of macroscopic objects may require more complex analysis, especially involving the dynamic influence of gravitational fields and void spheres.
 
-#### **(5) Relationship with General Relativity**
+#### **Explanation of General Relativity**
 
-- Phenomena such as time dilation and gravitational redshift in general relativity can be explained through the flow and density changes of void particles:
-  - In strong gravitational fields, the density of void particles significantly increases, making the void particle vortices around fate gears more stable, thereby extending the lifetime of unstable particles (time dilation).
-  - Gravitational lensing and black hole horizon phenomena are closely related to the direction and velocity distribution of void particle flows.
-  - The gravitational redshift formula derived from gravitational acceleration values aligns with the gravitational redshift formula of general relativity, indicating that under non-extreme conditions, gravitational redshift phenomena can be directly explained by void particle gravitational circulation.
+- Time dilation and gravitational redshift phenomena in general relativity can also be explained through the flow and density changes of void particles:
+  - In strong gravitational fields, the density of void particles significantly increases, making the void particle vortices around the fate gear more stable, thereby extending the lifetime of unstable particles (time dilation).
+  - Light path deflection and black hole horizon phenomena in gravitational fields are closely related to the direction and velocity distribution of void particle flows.
+  - The redshift formula derived from gravitational acceleration values is consistent with the gravitational redshift formula in general relativity, indicating that in non-extreme cases, the gravitational redshift phenomenon can be directly explained by void particle gravitational circulation.
 
-#### **(6) Mass-Energy Equivalence**
+#### **Mass-Energy Equivalence**
 
-In this model, the essence of both mass and energy can be attributed to the momentum distribution of virtual particles and void particle flows. According to Einstein's mass-energy equation $E = mc^2$, mass can be considered a highly concentrated form of energy. In this model, this relationship can be explained through the high-frequency oscillation of virtual particles and the void particle circulation they drive: the oscillation energy of virtual particles is directly converted into the kinetic energy of void particle flows, manifesting as mass or energy.
+- In this model, the essence of the unification of mass and energy is attributed to the total kinetic energy and topological structure of virtual particles and the void particle flows they drive.
+- The total kinetic energy of void particle flows determines the intrinsic energy of the system, while the topological structure determines the coupling degree of the system with the outside world and the mode and efficiency of energy exchange.
+- The essence of the mass-energy equivalence relation $E = mc^2$ lies in the conversion of virtual particle fluctuation energy into kinetic energy through driving four-dimensional void particle circulation, further manifesting as mass or energy.
+- The process of mass-energy conversion essentially involves the dynamic adjustment and redistribution of void particle circulation, reflecting the fundamental law of energy conservation in the universe.
 
-#### **Summary**
+#### Natural Emergence of Lorentz Transformations
 
-In this model, relativistic effects (time dilation, mass increase, length contraction) mainly apply to **high-energy experimental results of microscopic particles**, and their fundamental reasons are:
+In this model, Lorentz transformations can be viewed as the natural emergence of the symmetry of four-dimensional velocity $ v^A $, without the need to introduce an independent time dimension. Specifically, the core of Lorentz transformations lies in describing the space-time relationships between different inertial reference frames, and their mathematical form reflects the invariance of the speed of light and the principle of relativity. In traditional special relativity, time is considered an independent fourth dimension, co-constituting four-dimensional spacetime with spatial dimensions. However, in this model, the relationship between time and space can be reinterpreted through four-dimensional fluid dynamics (i.e., the dynamic characteristics of void particle flows).
 
-1. **Time Dilation**: The increase in void particle flow density prolongs the lifetime of unstable particles.
-2. **Mass Increase**: The increase in velocity in three-dimensional space leads to an additional three-dimensional void particle flow at the core; when the velocity reaches $v = 0.866c$, the mass doubles.
-3. **Length Contraction**: The range of void particle flow in the direction of motion is compressed, leading to a smaller collision cross-section.
+- **Four-dimensional velocity $ v^A $**: In this model, all physical phenomena can be attributed to the dynamic behaviors of virtual particles and void particle flows. Four-dimensional velocity $ v^A $ describes the motion state of void particle flows in four-dimensional space.
+- **Symmetry**: Due to the symmetry of the distribution and movement of void particle flows (e.g., isotropy and homogeneity), this symmetry directly leads to the mathematical form of Lorentz transformations.
 
-These effects cannot be simply generalized to macroscopic large mass systems because the complexity and overall dynamics of macroscopic systems may shield or weaken the relativistic effects of individual particles.
+Therefore, in this model, Lorentz transformations can be understood as the manifestation of the symmetry of four-dimensional void particle flows, without the need to regard time as an independent dimension.
 
 ---
 
