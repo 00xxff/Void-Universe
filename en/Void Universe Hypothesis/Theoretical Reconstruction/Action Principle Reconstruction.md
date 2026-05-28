@@ -4,9 +4,11 @@
 
 ## Abstract
 
-Within the framework of the Void Universe Hypothesis, this paper constructs a unified effective action $\mathcal{L}_{\text{void}}$ governing the supermembrane fluid base, three-dimensional membrane interface, composite particle topological matrix, and cross-dimensional momentum coupling. This framework completely abandons the patchwork Lagrangians in the Standard Model and General Relativity, unifying all fundamental forces, inertia, time dilation, and quantum field theory ultraviolet cutoff into a single variational principle on a five-dimensional manifold (three-dimensional membrane + fourth dimension + time). The core mathematical innovation lies in introducing **Lagrange multiplier method to strictly implement "constant power constraint"** and rigorously constructing **topological response polarization tensor $\mathcal{Q}_{\mu\nu}$** through multipole expansion and geometric shape tensor. Through variation of the total action, this paper rigorously derives from first principles: time dilation (power budget squeeze), force emergence (constant power redirection), weak equivalence principle (geometric isomorphism between added mass and gradient capture), and absolute gravitational weightlessness of free electrons (trace-zero polarization tensor due to $D_{3h}$ planar symmetry). Simultaneously, based on Helmholtz vortex tube stretching dynamics, nonlinear topological restoring stiffness and ultraviolet cutoff upper limit are naturally derived, completely eliminating the divergence dilemma caused by point particle assumption. Finally, this paper demonstrates the perturbative capability of calculating the first-order topological correction to the electron anomalous magnetic moment using this action, providing a solid mathematical foundation and clear starting point for perturbative calculations for the Void Universe Hypothesis.
+Within the framework of the Void Universe Hypothesis, this paper constructs a unified effective action $S_{\text{void}}$ governing the supermembrane fluid base, three-dimensional membrane interface, composite particle topological matrix, and cross-dimensional momentum coupling. This framework completely abandons the patchwork Lagrangians in the Standard Model and General Relativity, unifying all fundamental forces, inertia, reaction forces, time dilation, and quantum field theory ultraviolet cutoff into a single variational principle on a five-dimensional manifold (three-dimensional membrane + fourth dimension + time). The core mathematical innovation lies in introducing **Lagrange multiplier method to strictly implement "constant power constraint"** and rigorously constructing **topological response polarization tensor $\mathcal{Q}_{\mu\nu}$** through multipole expansion and geometric shape tensor.
 
-**Keywords**: Void Universe Hypothesis; Effective Action; Principle of Least Action; Constant Power Constraint; Topological Response Polarization Tensor; Added Mass Isomorphism; Vortex Tube Stretching Dynamics; Natural Ultraviolet Cutoff
+Through variation of the total action, this paper rigorously derives from first principles: time dilation (power budget squeeze), force emergence (constant power redirection), **reaction force (variational inference of momentum flux cross-term symmetry)**, weak equivalence principle (**cross-dimensional geometric isomorphism $\mathcal{S}_b \cong \mathcal{S}_q$ based on "cross-dimensional dual inertia law"**), and absolute gravitational weightlessness of free electrons (trace-zero polarization tensor due to $D_{3h}$ planar symmetry and WEP breaking). Simultaneously, based on Helmholtz vortex tube stretching dynamics, nonlinear topological restoring stiffness and ultraviolet cutoff upper limit are naturally derived, completely eliminating the divergence dilemma caused by point particle assumption. Finally, this paper demonstrates the perturbative capability of calculating the first-order topological correction to the electron anomalous magnetic moment using this action, providing a solid mathematical foundation and clear starting point for perturbative calculations for the Void Universe Hypothesis.
+
+**Keywords**: Void Universe Hypothesis; Effective Action; Principle of Least Action; Constant Power Constraint; Topological Response Polarization Tensor; Reaction Force Emergence; Cross-Dimensional Dual Inertia; Trigger-Self-Drive Mechanism; Vortex Tube Stretching Dynamics; Natural Ultraviolet Cutoff
 
 ---
 
@@ -18,7 +20,7 @@ The mathematical core of modern theoretical physics is the action principle. How
 
 ### 1.2 Positioning of This Paper: Variational Unification of Single Entity
 
-In the Void Universe Hypothesis, the foundation of physical reality is the four-dimensional void particle fluid and $S^3$ virtual particle topological network. This paper aims to construct a **single, self-consistent, and renormalization-free** effective action $S_{\text{void}}$. This action does not introduce any abstract gauge fields or curved spacetime metrics, but reduces gravity, electromagnetism, inertia, and relativistic kinematics to **variational extremum problems of fluid momentum flux and intrinsic topological matrix under constant power constraint**. It is the mathematical bridge connecting *Origin of Dimensions* (ontology) and *Theoretical Reconstruction* (phenomenology).
+In the Void Universe Hypothesis, the foundation of physical reality is the four-dimensional void particle fluid and $S^3$ virtual particle topological network. This paper aims to construct a **single, self-consistent, and renormalization-free** effective action $S_{\text{void}}$. This action does not introduce any abstract gauge fields or curved spacetime metrics, but reduces gravity, electromagnetism, inertia, reaction forces, and relativistic kinematics to **variational extremum problems of fluid momentum flux and intrinsic topological matrix under constant power constraint**. It is the mathematical bridge connecting *Origin of Dimensions* (ontology) and *Theoretical Reconstruction* (phenomenology).
 
 ---
 
@@ -87,12 +89,12 @@ By varying the total action $S_{\text{void}}$ ($\delta S = 0$), we can **rigorou
 
 Vary the Lagrange multiplier $\lambda$ and intrinsic phase $\chi$ in $\mathcal{L}_{\text{top}}$ respectively:
 
-1. $\delta \lambda = 0 \implies \dot{\chi} = \omega_{\text{max}} \cos\theta$
-2. $\delta \chi = 0 \implies \dot{\lambda} = 0 \implies \lambda = \text{const} \equiv \frac{P_{\text{tot}}}{\omega_{\text{max}}}$
+* $\delta \lambda = 0 \implies \dot{\chi} = \omega_{\text{max}} \cos\theta$
+* $\delta \chi = 0 \implies \dot{\lambda} = 0 \implies \lambda = \text{const} \equiv \frac{P_{\text{tot}}}{\omega_{\text{max}}}$
 
 **Physical conclusion**: The first equation strictly gives the **time dilation formula**! The intrinsic clock frequency $\nu \propto \dot{\chi}$. When a particle is deflected by force ($\theta > 0$), available radial power is squeezed, and the clock frequency decreases to $\nu_0 \cos\theta = \nu_0 \sqrt{1-v^2/c^2}$. The second equation proves that **total power $P_{\text{tot}}$ is strictly conserved**.
 
-### 3.2 Proof of "Force Emergence and Deflection Self-Driven Steady State"
+### 3.2 Proof of "Force Emergence, Inertia's Trigger-Self-Drive Nature, and Deflection Self-Driven Steady State"
 
 Vary the deflection angle $\theta$ ($\delta \theta = 0$), obtaining the rotational Euler-Lagrange equation of the matrix:
 
@@ -107,13 +109,40 @@ $$
 $$
 
 **Physical conclusion**: The right side is the **deflection torque exerted by the external fluid gradient**; the left side is the **topological restoring torque and intrinsic anchoring torque generated by constant power redirection**. Their balance locks the deflection angle $\theta_{\text{eq}}$.
+
 Furthermore, varying the center-of-mass coordinate $X$, the tangential momentum overflow rate (i.e., macroscopic force) is directly given by the gradient of $\mathcal{L}_{\text{int}}$:
 
 $$
 \mathbf{F} = -\nabla_X \mathcal{L}_{\text{int}} = \nabla_X (\mathcal{Q}_{\mu\nu} \Pi^{\mu\nu})
 $$
 
-**This rigorously derives from first principles that "force is a byproduct of redirection produced by the matrix to maintain constant power when processing external gradients."**
+This rigorously derives from first principles that **"force is a byproduct of redirection produced by the matrix to maintain constant power when processing external gradients."**
+
+**It must be emphasized that the external momentum flux tensor $\Pi^{\mu\nu}$ must be strictly divided into steady-state gradient terms (e.g., gravitational field, electrostatic field) and unsteady time-varying terms (e.g., dynamic pressure difference $\Delta \Pi_{\text{dyn}}$ generated by displaced fluid during acceleration). The former maintains steady deflection (driving end), the latter triggers transient inertial deflection (trigger at resistance end), while the inertia force itself is the reverse self-driven momentum overflow after deflection at the resistance end.**
+
+### 3.3 Proof of "Reaction Force as Joint Emergence of Cross-Term Symmetry and Power Conservation"
+
+In a many-body system containing particles A and B, the coupling sector $\mathcal{L}_{\text{int}}$ necessarily contains the momentum flux cross term $\Pi_{\text{cross}}$ between them:
+
+$$
+\mathcal{L}_{\text{int}}^{AB} \supset - \mathcal{Q}^{(A)}_{\mu\nu} \Pi^{\mu\nu}_{(B)} - \mathcal{Q}^{(B)}_{\mu\nu} \Pi^{\mu\nu}_{(A)}
+$$
+
+Since the cross term of the fluid momentum flux tensor $\Pi_{\text{cross}} = \rho(\mathbf{u}_{\text{rad}} \otimes \mathbf{u}_{\text{ext}} + \mathbf{u}_{\text{ext}} \otimes \mathbf{u}_{\text{rad}})$ is **strictly symmetric** between A and B, i.e., $\Pi^{(A \to B)} = \Pi^{(B \to A)}$.
+
+Vary the center-of-mass coordinates $X_A, X_B$ of A and B respectively to find forces:
+
+$$
+\mathbf{F}_{B \to A} = \nabla_{X_A} (\mathcal{Q}^{(A)}_{\mu\nu} \Pi^{\mu\nu}_{(B)}), \quad \mathbf{F}_{A \to B} = \nabla_{X_B} (\mathcal{Q}^{(B)}_{\mu\nu} \Pi^{\mu\nu}_{(A)})
+$$
+
+Combining the divergence theorem and the independent constant power constraints of A and B (i.e., the Lagrange multipliers $\lambda_A, \lambda_B$ in $\mathcal{L}_{\text{top}}$ are independently conserved), the symmetry of cross terms strictly guarantees:
+
+$$
+\mathbf{F}_{A \to B} = -\mathbf{F}_{B \to A}
+$$
+
+**Physical conclusion**: Newton's third law is no longer an a priori postulate, but a **natural inference from joint variation of four-dimensional fluid momentum flux cross-term symmetry and independent topological matrix power conservation**. Reaction force is the equivalent manifestation of each side's own intrinsic power redirection, not direct "force transmission".
 
 ---
 
@@ -124,6 +153,7 @@ This section completely opens the "black box" of $\mathcal{Q}_{\mu\nu}$, rigorou
 ### 4.1 Multipole Expansion of $\mathcal{Q}_{\mu\nu}$ and Gravitational Polarization Tensor
 
 Within the finite interaction volume $\mathcal{V}_{\text{int}}$, the external fluid momentum flux tensor $\Pi^{\mu\nu}(\mathbf{x})$ can be Taylor expanded at the center of mass. The zero-order monopole moment only contributes background pressure, **first-order gradient coupling (dipole/quadrupole moments) is the source of net deflection torque**.
+
 Define the spatial distribution density of the $b$-pole network (dominating three-dimensional gravitational response) as $\rho_b(\mathbf{x})$ (representing the "sink" strength of fluid extraction), and its gravitational polarization tensor is defined as:
 
 $$
@@ -136,37 +166,41 @@ Then the gravitational deflection torque is strictly proportional to the contrac
 
 The three $b$-poles of an electron are distributed in an equilateral triangle within the three-dimensional membrane (confined to the $xy$ plane) and located in the fluid "shadow zone" of the $q$-pole core.
 
-1. **Geometric Dimensional Reduction**: Since $b$-poles are strictly distributed in the $z=0$ plane, their $z$-coordinate is zero, causing all components containing $z$ in the tensor to be strictly zero: $Q_b^{zz} = Q_b^{xz} = Q_b^{yz} = 0$. This means electrons **cannot couple to gravitational gradients in the membrane normal direction ($z$-direction)** $\partial_z \Pi^{jk}$.
-2. **Shadow Zone Pump Failure**: Within the plane ($xy$ plane), since $b$-poles are wrapped by the fluid high-pressure wake formed by $q$-pole jets, their effective sink strength $\rho_b(\mathbf{x})$ is severely suppressed ($\rho_b \to 0$).
-   **Conclusion**: Geometric dimensional reduction and fluid shadow effect jointly cause the trace of electron's gravitational polarization tensor $\text{Tr}(Q_b) \approx 0$. The variational equation $\partial \mathcal{L}_{\text{int}} / \partial \theta \propto Q_b^{ij} \partial_i \Pi^{jk} \approx 0$ rigorously proves $\theta_{\text{grav}} \approx 0$ (**absolute gravitational weightlessness**) mathematically.
+* **Geometric Dimensional Reduction**: Since $b$-poles are strictly distributed in the $z=0$ plane, their $z$-coordinate is zero, causing all components containing $z$ in the tensor to be strictly zero: $Q_b^{zz} = Q_b^{xz} = Q_b^{yz} = 0$. This means electrons **cannot couple to gravitational gradients in the membrane normal direction ($z$-direction)** $\partial_z \Pi^{jk}$.
+* **Shadow Zone Pump Failure**: Within the plane ($xy$ plane), since $b$-poles are wrapped by the fluid high-pressure wake formed by $q$-pole jets, their effective sink strength $\rho_b(\mathbf{x})$ is severely suppressed ($\rho_b \to 0$).
+
+**Conclusion**: Geometric dimensional reduction and fluid shadow effect jointly cause the trace of electron's gravitational polarization tensor $\text{Tr}(Q_b) \approx 0$. The variational equation $\partial \mathcal{L}_{\text{int}} / \partial \theta \propto Q_b^{ij} \partial_i \Pi^{jk} \approx 0$ rigorously proves $\theta_{\text{grav}} \approx 0$ (**absolute gravitational weightlessness**) mathematically.
 
 ### 4.3 Rigorous Proof of $Q_b^{ij} \neq 0$ for Proton (Volumetric Symmetry)
 
 The $b$-poles of a proton are deeply rooted in the three-dimensional membrane, distributed as a triangular prism with three lateral cones (three-dimensional volumetric symmetry). Its distribution $\rho_b(\mathbf{x})$ has non-zero extension in all three directions $x, y, z$, and is located in the fluid "windward zone" with extremely high pumping efficiency. Its polarization tensor $Q_b^{ij}$ has non-degenerate three-dimensional principal diagonal elements ($Q_b^{xx}, Q_b^{yy}, Q_b^{zz} > 0$).
+
 **Conclusion**: Protons can strongly couple to full gradient fields $\nabla \Pi$, generating huge deflection torque, rigorously deriving the strong gravitational response of baryons.
 
-### 4.4 Hydrodynamic Isomorphism Closure of Weak Equivalence Principle (WEP)
+### 4.4 Cross-Dimensional Dual Isomorphism Closure of Weak Equivalence Principle (WEP) (Core Revision)
 
-To prove gravitational mass equals inertial mass, we need to compare the equivalence of scenario A (gravitational field) and scenario B (uniform acceleration) at the action integral level.
+To prove gravitational mass equals inertial mass, the **cross-dimensional dual inertia law** must be introduced to compare the geometric isomorphism between the gravitational driving end and the inertial resistance end. In a rigidly interlocked $b$-$q$ topological matrix, inertial resistance is always generated by passive displacement and deflection at the "non-driving end".
 
-* **Gradient Capture Integral in Scenario A (Gravitational Field)**:
-  In a steady gravitational field, the background flow velocity $\mathbf{u}_{\text{bg}}$ expands within the particle scale $R_0$ as $\mathbf{u}_{\text{bg}} \approx \mathbf{u}_0 + \mathbf{J} \cdot \mathbf{x}$ ($\mathbf{J}$ is the velocity gradient tensor). The gravitational force (momentum capture caused by convective acceleration) experienced by the control volume is:
+**Scenario A (Driving and Gravitational Mass in Gravitational Field):**
+In a steady gravitational field, the $b$-pole within the three-dimensional membrane acts as the **driving end** capturing the full gradient field. The net shear torque (gravity) it experiences is proportional to the geometric shape tensor $\mathcal{S}_b^{ij} = \int_{\mathcal{V}} x^i x^j d^3x$ of the $b$-pole network within the three-dimensional membrane. I.e., gravitational mass $m_{\text{grav}} \propto \rho_0 \mathcal{S}_b$.
 
-  $$
-  \mathbf{F}_{\text{grav}} = \int_{\mathcal{V}} \rho_0 (\mathbf{u}_{\text{bg}} \cdot \nabla)\mathbf{u}_{\text{bg}} dV \approx \int_{\mathcal{V}} \rho_0 (\mathbf{J}^2 \cdot \mathbf{x}) dV
-  $$
+**Scenario B (Resistance and Inertial Mass in Gravitational Free Fall):**
+In gravitational fall, the $b$-pole is the driving end, while the $q$-pole on the four-dimensional side is forced to accelerate and becomes the **resistance end**. The $q$-pole displaces four-dimensional fluid generating unsteady pressure difference (trigger), triggering passive deflection of $q$-pole and overflowing reverse self-driven momentum (inertia itself). According to fluid mechanics, the four-dimensional added mass tensor is proportional to the four-dimensional geometric shape tensor $\mathcal{S}_q^{\mu\nu}$ of the $q$-pole network. I.e., inertial mass during gravitational fall $m_{\text{inertial}}^{(\text{grav})} \propto \rho_0 \mathcal{S}_q$.
 
-  Using the divergence theorem and the **geometric shape tensor** $\mathcal{S}^{ij} = \int_{\mathcal{V}} x^i x^j dV$ of the $b$-pole control volume, gravity can be written as: $\mathbf{F}_{\text{grav}} = \rho_0 \mathcal{S} : (\mathbf{J}^2 \otimes \nabla) \equiv m_{\text{eff}} \mathbf{g}$.
-* **Added Mass Integral in Scenario B (Uniform Acceleration)**:
-  In a uniformly stationary fluid, the control volume moves with acceleration $\mathbf{a}$. According to fluid mechanics **d'Alembert's principle**, the unsteady dynamic pressure drag (added mass force) generated by the accelerating object displacing fluid is:
+**Scenario C (Resistance and Inertial Mass in Electromagnetic Acceleration):**
+In electromagnetic acceleration, the $q$-pole on the four-dimensional side is the driving end, while the $b$-pole within the three-dimensional membrane is forced to accelerate and becomes the **resistance end**. The $b$-pole displaces three-dimensional fluid triggering deflection, and inertial mass is determined by the three-dimensional shape tensor, i.e., $m_{\text{inertial}}^{(\text{EM})} \propto \rho_0 \mathcal{S}_b$.
 
-  $$
-  \mathbf{F}_{\text{added}} = - \rho_0 \mathcal{C}_{\text{added}} \mathcal{V} \mathbf{a}
-  $$
+**Cross-Dimensional Rigid Interlocking Isomorphism Closure:**
+Since the $b$-pole and $q$-pole are **rigidly interlocked** through the internal $S^3$ vortex filament network, sharing global flux and topological stiffness. The geometric shape tensor $\mathcal{S}_b$ of the $b$-pole within the three-dimensional membrane and the geometric shape tensor $\mathcal{S}_q$ of the $q$-pole on the four-dimensional side are essentially **geometric projections of the same global topological matrix $\mathcal{S}_{\text{global}}$ in different dimensions**, necessarily having a strict isomorphic mapping $\mathcal{S}_b \cong \mathcal{S}_q$.
 
-  where $\mathcal{C}_{\text{added}}$ is the added mass coefficient tensor. **In potential flow theory, the added mass tensor $\mathcal{C}_{\text{added}}$ and the geometric shape tensor $\mathcal{S}$ of the object are strictly isomorphic mathematically** (both uniquely determined by the Neumann boundary value problem of the Laplace equation on the control volume boundary $\partial \mathcal{V}$).
+**Conclusion**: $m_{\text{grav}} \equiv m_{\text{inertial}}^{(\text{grav})} \equiv m_{\text{inertial}}^{(\text{EM})}$. The equivalence principle is no longer a postulate, but an inevitable geometric result of cross-dimensional rigid interlocking.
 
-**Conclusion**: Since $m_{\text{eff}}$ (gravitational mass) and $m_{\text{added}}$ (core part of inertial mass) are **determined by the same shape tensor $\mathcal{S}$ from the same geometric boundary value problem** at the fluid mechanics level, therefore $m_{\text{grav}} \equiv \rho_0 \mathcal{S} \equiv m_{\text{inertial}}$. The equivalence principle is no longer a postulate, but a **mathematical isomorphism on geometric shape tensors** between the two processes of "capturing steady gradient momentum" and "displacing unsteady fluid" for finite-scale objects in fluid.
+**Mathematical Proof of WEP Breaking for Free Electrons:**
+For electrons, due to their $b$-poles being in the shadow zone and distributed planarly, $\mathcal{S}_b \approx 0$.
+
+1. In gravitational field, driving end is disabled, $m_{\text{grav}} \propto \mathcal{S}_b \approx 0$ (absolute gravitational weightlessness).
+2. In electromagnetic acceleration, $q$-pole drives, and its inertia is determined by overall topological stiffness and weak four-dimensional displacement, showing $m_{\text{inertial}} > 0$.
+   This rigorously proves $m_{\text{grav}} \neq m_{\text{inertial}}$ mathematically, establishing the fundamental breaking of leptons to the equivalence principle.
 
 ---
 
@@ -177,7 +211,9 @@ The fatal flaw of standard quantum field theory (QFT) is the ultraviolet diverge
 ### 5.1 Vortex Tube Stretching and Tension Divergence
 
 The intrinsic restoring stiffness $\kappa_{\text{top}}$ of the topological matrix originates from the tension of its internal closed vortex filament network resisting torsion. According to Helmholtz vortex tube dynamics, the tension $T$ of a vortex tube is proportional to the square of circulation $\Gamma$ divided by cross-sectional area $A$: $T \propto \Gamma^2 / A$.
+
 When the matrix undergoes deflection angle $\theta$, internal vortex tubes undergo shear stretching. Let the initial length be $L_0$, and the length after deflection becomes $L(\theta) = L_0 / \cos\theta$. Since the void particle fluid is incompressible at the vortex tube scale, volume conservation requires $A(\theta) L(\theta) = A_0 L_0$, so the cross-sectional area contracts to: $A(\theta) = A_0 \cos\theta$.
+
 Substituting into the tension formula, we obtain the deflection-dependent vortex tube tension: $T(\theta) = T_0 / \cos\theta$. The restoring torque (stiffness) $\kappa_{\text{top}}$ is proportional to the derivative of tension with respect to deflection angle, thus naturally deriving:
 
 $$
@@ -189,6 +225,7 @@ $$
 ### 5.2 Physical Cutoff at Topological Saturation Upper Limit $\theta_{\text{max}}$
 
 Vortex tubes cannot become infinitely thin. When the cross-sectional area $A(\theta)$ shrinks to the minimum structural scale of void particles (Planck area $\ell_{\text{min}}^2$), the continuous fluid description fails, reaching the **topological saturation upper limit**.
+
 From $A_0 \cos\theta_{\text{max}} = \ell_{\text{min}}^2$, the maximum deflection angle is strictly solved:
 
 $$
@@ -196,6 +233,7 @@ $$
 $$
 
 When external force attempts to make $\theta > \theta_{\text{max}}$, the vortex tube undergoes topological fracture or reconnection, and the deflection angle is physically locked at $\theta_{\text{max}}$.
+
 **Conclusion**: The ultraviolet cutoff $\Pi_{\text{top}}$ is completely determined by the ratio of the initial cross-sectional area $A_0$ of the vortex tube to the minimum medium scale $\ell_{\text{min}}$. The divergence in QFT is naturally and rigorously truncated here by the **geometric limit of vortex tube stretching**.
 
 ---
@@ -214,8 +252,8 @@ where $F_{\text{sat}}(r) = [ 1 + (\ell_{\text{min}}/r)^4 ]^{-1}$ is the topologi
 
 Separate angular integral $\mathcal{I}_{\Omega}$ and radial integral $\mathcal{I}_r$:
 
-1. **Angular Integral**: Ideal spherical symmetry combined with $S^3$ Hopf fibration gives the QED main term $1/2\pi$. After introducing $D_{3h}$ deformation, polarization response weakens, producing a pure geometric correction factor $[ 1 - \frac{3}{8}(\epsilon_2^2 + \epsilon_3^2) ]$.
-2. **Radial Integral**: Controlled by $F_{\text{sat}}(r)$, the integral naturally truncates at $r \sim \ell_{\text{min}}$ without ultraviolet divergence. Through vorticity circulation quantization matching, the main term normalizes to 1, leaving higher-order fine-tuning terms $1 - \kappa_{\text{sat}} (\ell_{\text{min}}/R_0)^2$.
+* **Angular Integral**: Ideal spherical symmetry combined with $S^3$ Hopf fibration gives the QED main term $1/2\pi$. After introducing $D_{3h}$ deformation, polarization response weakens, producing a pure geometric correction factor $[ 1 - \frac{3}{8}(\epsilon_2^2 + \epsilon_3^2) ]$.
+* **Radial Integral**: Controlled by $F_{\text{sat}}(r)$, the integral naturally truncates at $r \sim \ell_{\text{min}}$ without ultraviolet divergence. Through vorticity circulation quantization matching, the main term normalizes to 1, leaving higher-order fine-tuning terms $1 - \kappa_{\text{sat}} (\ell_{\text{min}}/R_0)^2$.
 
 **Final Result**:
 
@@ -264,14 +302,15 @@ By constructing a single five-dimensional action $S_{\text{void}}$, we have achi
 2. **Eliminated all "mysterious" postulates**:
    * **Time dilation** $\to$ Phase evolution rate decrease under Lagrange multiplier constraint.
    * **Four fundamental forces** $\to$ Gradient coupling between polarization tensor $\mathcal{Q}_{\mu\nu}$ and fluid flux $\Pi^{\mu\nu}$.
-   * **Equivalence principle** $\to$ Geometric isomorphism between added mass tensor and gradient capture tensor.
+   * **Reaction force** $\to$ Joint variation of momentum flux cross-term symmetry and independent power conservation.
+   * **Equivalence principle** $\to$ **Cross-dimensional geometric isomorphism $\mathcal{S}_b \cong \mathcal{S}_q$ under "cross-dimensional dual inertia law"**, establishing "displacement resistance as trigger, reverse self-driven overflow as inertia itself".
    * **Ultraviolet cutoff** $\to$ Helmholtz vortex tube stretching dynamics colliding with minimum scale.
 3. **Provided clear calculation tools**: Successfully calculated the first-order topological correction to the electron anomalous magnetic moment, proving that this action has rigorous calculation capability directly comparable to Standard Model perturbation theory.
 
-Emerging from the fog of geometry, returning to fluid reality. The Void Universe effective action not only provides a rigorous mathematical form for the Theory of Everything, but also opens a door to ultimate truth for humanity in equivalence principle boundary tests and extremely high-precision time dilation experiments.
+Emerging from the fog of geometry, returning to fluid reality. The Void Universe effective action not only provides a rigorous mathematical form for the Theory of Everything, but also opens a completely new door to ultimate truth for humanity in equivalence principle boundary tests and extremely high-precision time dilation experiments.
 
 ---
 
-**Version**: v2.0 | **Last Updated**: May 2026
-**Aligned Branch**: *Origin of Dimensions*, *Microscopic Origin*, *Gravitational Reconstruction*, *Electromagnetism Reconstruction*, *Quantum Field Theory Reconstruction*
-**Declaration**: All mathematical derivations in this paper are self-consistently performed within the given ontological assumptions and effective field theory boundaries. Abstract gauge fields and point particle assumptions are abandoned, and all physical phenomena are strictly anchored to variational extrema of fluid momentum flux, topological matrix response, and constant power constraint.
+**Version**: v4.0 | **Last Updated**: May 2026
+**Aligned Branches**: *Origin of Dimensions*, *Microscopic Origin*, *Gravitational Reconstruction*, *Electromagnetism Reconstruction*, *Quantum Field Theory Reconstruction*, *Nature of Force*
+**Declaration**: All mathematical derivations in this paper are self-consistently performed within the given ontological assumptions and effective field theory boundaries. Abstract gauge fields and point particle assumptions are abandoned, and all physical phenomena are strictly anchored to variational extrema of fluid momentum flux, topological matrix response, and constant power constraint. Clearly defined "displacement resistance as trigger, reverse self-driven overflow as inertia itself", "cross-term symmetry origin of reaction force", and "cross-dimensional dual isomorphism essence of equivalence principle".

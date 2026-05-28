@@ -6,9 +6,9 @@
 
 Within the framework of the Void Universe Hypothesis, this paper systematically reconstructs the microscopic origins of mass, inertia, and universal gravitation. Abandoning abstract spacetime geometry postulates and external field action-at-a-distance assumptions, this framework unifies gravity and inertia as momentum flux redirection phenomena of four-dimensional void particle fluid in the neighborhood of the three-dimensional membrane. The core paradigm establishes that force is not a mechanical action imposed by external fields, but rather an **adaptive deflection byproduct** of the mass-intrinsic momentum transformation topological matrix under constant power ($P_{\text{tot}}=\phi c^2$) constraint, in response to perturbations from external fluid full gradient fields and angular momentum inflow spectra.
 
-This paper establishes the **$b$-$q$ dipole cross-dimensional conservation** and **topological space division theorem**, and based on the **strict hierarchy between "four-dimensional tangent geometry" and "three-dimensional intrinsic configuration"**, precisely resolves the fine topological structures of electrons ($qqq$ planar symmetry) and protons (triangular prism with three lateral cones symmetry). This reveals the geometric origin of free lepton absolute gravitational weightlessness and baryon strong gravitational response. Furthermore, this paper completely de-geometrizes special relativity time dilation, reconstructing it as **intrinsic power budget squeeze effect under deflection self-driven steady state**, unifying mass, inertia, gravity, and relativistic kinematics within the topological dynamics of void particle fluid, and endowing Einstein's "matter tells spacetime how to curve" with substantive fluid physical flesh.
+This paper establishes the **$b$-$q$ dipole cross-dimensional conservation** and **topological space division theorem**, and based on the **strict hierarchy between "four-dimensional tangent geometry" and "three-dimensional intrinsic configuration"**, precisely resolves the fine topological structures of electrons ($qqq$ planar symmetry) and protons (triangular prism with three lateral cones symmetry). This reveals the geometric origin of free lepton absolute gravitational weightlessness and baryon strong gravitational response. Furthermore, this paper first proposes the **"cross-dimensional dual inertia law"**, precisely deconstructing the **"trigger-deflection-self-drive" syllogistic essence** of inertia, clarifying the perfect duality between electromagnetic acceleration and gravitational acceleration in cross-dimensional topology, thereby providing the deepest microscopic geometric closure for the weak equivalence principle. Finally, this paper completely de-geometrizes special relativity time dilation, reconstructing it as **intrinsic power budget squeeze effect under deflection self-driven steady state**, unifying mass, inertia, gravity, and relativistic kinematics within the topological dynamics of void particle fluid, and endowing Einstein's "matter tells spacetime how to curve" with substantive fluid physical flesh.
 
-**Keywords**: Void Universe Hypothesis; Momentum Flux Tensor; Constant Power Redirection; Deflection Self-Driven Steady State; $b$-$q$ Dipole Conservation; Fine Topological Configuration; Full Gradient Field Response; Absolute Gravitational Weightlessness; Power Budget Squeeze
+**Keywords**: Void Universe Hypothesis; Momentum Flux Tensor; Constant Power Redirection; Deflection Self-Driven Steady State; $b$-$q$ Dipole Conservation; Cross-Dimensional Dual Inertia; Trigger-Self-Drive Mechanism; Full Gradient Field Response; Absolute Gravitational Weightlessness; Power Budget Squeeze
 
 ---
 
@@ -98,26 +98,39 @@ The larger the total flux and the more complex the circulation network (e.g., ba
 
 ---
 
-## 5. Inertia, Deflection Mechanics, and Self-Driven Steady-State Cycle
+## 5. Inertia, Deflection Mechanics, and Self-Driven Steady-State Cycle (Core Revision)
 
-### 5.1 Unified Multi-Source Nature of Deflection Force $\mathcal{F}_{\text{def}}$
+### 5.1 Unified Multi-Source Nature of Deflection Force $\mathcal{F}_{\text{def}}$ and Transient Definition
 
 Abandoning the "external force push/pull" hypothesis. Gravity, electromagnetic force, and inertial resistance are fundamentally unified as **asymmetric deflection stresses acting on dipole sink ends**:
 
-* **Gravitational Deflection Force**: Originates from the integral response of $b$-sink to the three-dimensional full gradient field $(\nabla p, \nabla \rho, \nabla \mathbf{u})$.
+* **Gravitational Deflection Force**: Originates from the integral response of $b$-sink to the three-dimensional full gradient field $(\nabla p, \nabla \rho, \nabla \mathbf{u})$ (steady state).
 * **Electromagnetic Deflection Force**: Originates from the response of $q$-sink to four-dimensional normal gradient and tangential vorticity.
-* **Inertial Deflection Force (Motion Resistance)**: Originates from the **dynamic pressure difference $\Delta \Pi_{\text{dyn}}(v)$** formed by oncoming void particle flow at the inlets of $b$-sink and $q$-sink when the matrix travels at velocity $v$. It is the price that must be paid to change the motion state, and also the anchoring force that maintains steady deflection.
+* **Dual-State Definition of Inertial Deflection Force**:
+  * **Acceleration Transient (Trigger)**: **Unsteady dynamic pressure difference (added mass force)** formed by displaced fluid when the matrix accelerates. This is merely an external load acting on the control volume surface, the **trigger** for inertial resistance, not the inertia force itself.
+  * **Constant Velocity Steady State (Anchoring)**: **Steady-state dynamic pressure difference** formed by oncoming void particle flow when the matrix travels at constant velocity $v$. This is the anchoring force that maintains steady deflection.
 
-### 5.2 Self-Consistent Steady-State Cycle of Deflection-Overflow-Resistance
+### 5.2 Cross-Dimensional Dual Nature of Inertia: Mutual Exclusion Between Driving End and Resistance End
+
+**Core Law**: In a rigidly interlocked $b$-$q$ topological matrix, inertial resistance is always generated by **passive displacement and deflection at the "non-driving end"**. The same pole cannot be both "engine" and "brake pad".
+
+1. **Electromagnetic/Contact Acceleration (Four-Dimensional Drive, Three-Dimensional Resistance)**:
+   * **Drive**: The four-dimensional side $q$-pole senses the electromagnetic field and undergoes **active deflection**, outputting tangential thrust and dragging the nucleus through rigid topology.
+   * **Trigger and Ontology**: The $b$-pole within the three-dimensional membrane is forced to follow acceleration, displacing three-dimensional fluid and generating unsteady pressure difference (trigger). This pressure difference forces the $b$-pole to undergo **instantaneous passive deflection**, thereby overflowing reverse self-driven momentum (the inertia force we perceive daily).
+2. **Gravitational Acceleration/Free Fall (Three-Dimensional Drive, Four-Dimensional Resistance)**:
+   * **Drive**: The $b$-pole aggregation core within the three-dimensional membrane senses the total momentum flux gradient of the gravitational field, undergoes **active deflection**, overflows tangential momentum, and generates gravitational self-driven thrust.
+   * **Trigger and Ontology**: The $b$-pole drags the four-dimensional side $q$-pole downward to accelerate through the rigid network. The $q$-pole displaces four-dimensional fluid/electromagnetic vacuum and generates unsteady pressure difference (trigger). This pressure difference forces the $q$-pole network to undergo **passive deflection**, thereby overflowing upward reverse self-driven momentum (the inertia resistance during gravitational fall).
+
+### 5.3 Self-Consistent Steady-State Cycle of Deflection-Overflow-Resistance and Transient Zeroing
 
 Uniform linear motion is not an inertial state of "zero external force", but a **minimum energy consumption steady state where deflection force balances topological restoration torque**.
 
-1. **Deflection**: The matrix is at deflection angle $\theta$, and constant power $P_{\text{tot}}$ undergoes vector redistribution: radial component $P_{\perp} = P_{\text{tot}} \cos\theta$, tangential component $P_{\parallel} = P_{\text{tot}} \sin\theta$.
-2. **Overflow**: The tangential momentum overflow rate manifests as centroid directional drift on the three-dimensional membrane, defining velocity $v \equiv c \sin\theta$. **Velocity is the kinematic representation of deflection angle**.
-3. **Resistance (Anchoring)**: The oncoming dynamic pressure difference corresponding to velocity $v$ exactly provides the deflection torque required to maintain the current $\theta$.
-   **Closed Loop**: $\theta \leftrightarrow v \leftrightarrow \text{inertial deflection force} \leftrightarrow \theta$. All three are mutually causal and simultaneously determined. Without inertial deflection force as anchoring, the matrix would spring back to $\theta=0$ (stationary) under $\kappa_{\text{top}}$.
+* **Deflection**: The matrix is at deflection angle $\theta$, and constant power $P_{\text{tot}}$ undergoes vector redistribution: radial component $P_{\perp} = P_{\text{tot}} \cos\theta$, tangential component $P_{\parallel} = P_{\text{tot}} \sin\theta$.
+* **Overflow**: The tangential momentum overflow rate manifests as centroid directional drift on the three-dimensional membrane, defining velocity $v \equiv c \sin\theta$. **Velocity is the kinematic representation of deflection angle**.
+* **Resistance (Anchoring)**: The oncoming dynamic pressure difference corresponding to velocity $v$ exactly provides the deflection torque required to maintain the current $\theta$.
+* **Closed Loop and Transient Zeroing**: $\theta \leftrightarrow v \leftrightarrow \text{steady-state anchoring pressure difference} \leftrightarrow \theta$. All three are mutually causal and simultaneously determined. **At the acceleration instant, unsteady displacement resistance triggers passive deflection at the non-driving end, generating reverse self-driven overflow (manifesting as transient inertial resistance $F=ma$); once entering constant velocity steady state, unsteady terms disappear, and net inertial resistance strictly zeroes**, with the system only relying on steady-state pressure difference to maintain deflection anchoring.
 
-### 5.3 Constant Power Redirection and Force Emergence
+### 5.4 Constant Power Redirection and Force Emergence
 
 Deflection angle $\theta_{\text{eq}}$ breaks normal momentum closure, and constant driving power undergoes vector redistribution. Momentum that cannot be completely radialized overflows as three-dimensional tangential residual momentum transport rate, converting into net self-driven thrust:
 
@@ -139,26 +152,23 @@ The massive aggregated $b$-pole network inside massive objects continuously extr
 
 Baryons such as protons possess a **$b$-pole aggregation core (volumetric symmetry)** deeply rooted in the three-dimensional membrane. This finite-scale topological control volume is immersed in the full gradient field and experiences significant net shear torque. To maintain power balance, the matrix deflects, overflows tangential momentum, and acquires constant gravitational acceleration $\mathbf{a} = \lambda \mathbf{u}_{bg}$, rigorously deriving Newton's law of universal gravitation.
 
-### 6.3 Rigorous Hydrodynamic Proof of Weak Equivalence Principle (WEP)
+### 6.3 Cross-Dimensional Isomorphic Closure of Weak Equivalence Principle (WEP) (Core Revision)
 
-The equivalence principle requires that a uniform gravitational field is equivalent to a uniformly accelerating reference frame. In the void framework, this is not a postulate of spacetime geometry, but rather the **mathematical equivalence of material derivative in Navier-Stokes equations between spatial distribution and temporal evolution**.
+To prove gravitational mass equals inertial mass, the **cross-dimensional dual mechanism** must be introduced to compare the geometric isomorphism between the gravitational driving end and the inertial resistance end.
 
-Consider the $b$-pole aggregation control volume $\mathcal{V}$ of a baryon (characteristic scale $R_0$), whose deflection force is determined by the surface integral of momentum flux tensor $\Pi$: $\mathbf{F} = -\oint_{\partial\mathcal{V}} \Pi \cdot d\mathbf{S}$.
-1. **Scenario A (Stationary in Uniform Gravitational Field)**: Background fluid has steady velocity gradient $\mathbf{u}_{\text{bg}}$ and pressure gradient $\nabla p$. The net shear torque on the control volume originates from the convective acceleration term. The integral result is proportional to:
-   $$ \mathbf{F}_{\text{grav}} \propto \int_{\mathcal{V}} \rho_0 (\mathbf{u}_{\text{bg}} \cdot \nabla)\mathbf{u}_{\text{bg}} \, dV + \int_{\mathcal{V}} \nabla p \, dV = m_{\text{eff}} \mathbf{g} $$
-2. **Scenario B (Uniformly Accelerating in Uniform Stationary Fluid)**: Background fluid is stationary, and the control volume moves with acceleration $\mathbf{a}$. In the co-moving non-inertial frame, the fluid has apparent time-varying velocity, and the inertial deflection force (d'Alembert added mass force) on the control volume originates from the local time-varying acceleration term. The integral result is proportional to:
-   $$ \mathbf{F}_{\text{inertial}} \propto \int_{\mathcal{V}} \rho_0 \left( -\frac{\partial \mathbf{u}_{\text{rel}}}{\partial t} \right) dV = m_{\text{added}} \mathbf{a} $$
-3. **Galilean Covariance Closure of Material Derivative**: The fluid material derivative $\frac{D\mathbf{u}}{Dt} = \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u}$ has strict covariance under Galilean transformation. For a finite-scale $b$-pole control volume, as long as the local approximation is satisfied ($R_0 \ll$ gravitational field curvature radius), "convective shear caused by steady spatial gradient" and "dynamic pressure difference caused by unsteady temporal gradient" are **strictly mathematically isomorphic** in the surface integral of momentum flux tensor.
-**Conclusion**: Gravitational mass equals inertial mass ($m_{\text{eff}} = m_{\text{added}} \equiv m$) because the spatial and temporal terms of the fluid material derivative are strictly equivalent at the control volume integral level. The equivalence principle is an intrinsic geometric property of baryon $b$-pole networks in fluid dynamics.
-*(Note: This proof simultaneously explains why free electrons do not satisfy WEP — electrons lack a $b$-pole aggregation core within the three-dimensional membrane, and the cross term integral in Scenario A $\approx 0$, leading to $m_{\text{grav}} \neq m_{\text{inertial}}$.)*
+1. **Gravitational Mass (Three-Dimensional Driving End)**: In a steady gravitational field, the $b$-pole aggregation core captures the three-dimensional full gradient field. The net shear torque (gravity) it experiences is proportional to the geometric shape tensor $\mathcal{S}_b$ of the $b$-pole network within the three-dimensional membrane. I.e., $m_{\text{grav}} \propto \rho_0 \mathcal{S}_b$.
+2. **Inertial Mass (Four-Dimensional Resistance End)**: In gravitational free fall, the $q$-pole network is forced to accelerate, displacing four-dimensional fluid. According to fluid mechanics, the four-dimensional added mass tensor $\mathcal{C}_{\text{added}}^{(q)}$ is strictly isomorphic to the four-dimensional geometric shape tensor $\mathcal{S}_q$ of the $q$-pole network. The triggered reverse self-driven overflow (inertial force) is proportional to $\mathcal{S}_q$. I.e., $m_{\text{inertial}} \propto \rho_0 \mathcal{S}_q$.
+3. **Cross-Dimensional Rigid Interlocking Isomorphism**: Because the $b$-pole and $q$-pole are **rigidly interlocked** through the internal $S^3$ vortex filament network, sharing global flux and topological stiffness. The geometric shape tensor $\mathcal{S}_b$ of the $b$-pole within the three-dimensional membrane and the geometric shape tensor $\mathcal{S}_q$ of the $q$-pole on the four-dimensional side are essentially **geometric projections of the same global topological matrix in different dimensions**, necessarily strictly isomorphic ($\mathcal{S}_b \cong \mathcal{S}_q$).
 
-### 6.4 Absolute Gravitational Weightlessness of Free Electrons
+**Conclusion**: Gravitational mass (three-dimensional gradient capture) and inertial mass (four-dimensional displacement resistance) are fundamentally determined by cross-dimensional projections of the same global topological matrix, therefore $m_{\text{grav}} \equiv m_{\text{inertial}}$. The equivalence principle is no longer a postulate, but an inevitable geometric result of cross-dimensional rigid interlocking.
 
-Based on the electron's fine topology (**$q$-core $b$-shell, planar symmetry**), its gravitational weightlessness originates from two geometric factors:
+### 6.4 Absolute Gravitational Weightlessness of Free Electrons and Inertia Retention
 
-1. **Extremely Weak $b$-Pole Coupling Stiffness**: Peripheral discrete $b$-poles lie in the fluid "shadow zone" of the $q$-pole core, with extremely low coupling cross-section and response stiffness to the full gradient field within the three-dimensional membrane, unable to effectively capture gradient energy and convert it into deflection torque.
-2. **Four-Dimensional Oscillation Decoupling**: Driven by $q$-pole recoil, electrons perform extremely high-frequency radial breathing mode oscillations in positive four-dimensional space, resulting in extremely low "duty cycle" for three-dimensional tangential gradients.
-   **Conclusion**: Free electrons are substantially immune to gravitational fields, exhibiting absolute gravitational weightlessness ($a_e \approx 0$).
+Based on the electron's fine topology (**$q$-core $b$-shell, planar symmetry**), its singular mechanical behavior is perfectly self-consistently explained through the cross-dimensional dual mechanism:
+
+* **In Gravitational Field (No Gravitational Mass)**: The electron's $b$-pole lies in the fluid shadow zone, with the "three-dimensional driving end" disabled, unable to sense gradients, therefore **no gravitational mass** ($a_e \approx 0$).
+* **In Electromagnetic Field (With Inertial Mass)**: The electron's $q$-pole activates as the "four-dimensional driving end", at which point its weak $b$-pole is forced to follow, providing inertial resistance, therefore **having inertial mass**.
+  **Conclusion**: This completely breaks the blind presumption in the Standard Model that "inertial mass must equal gravitational mass", establishing the fundamental breaking of leptons to the equivalence principle.
 
 ### 6.5 Electromagnetic Drag Emergence of Macroscopic Equivalence Principle
 
@@ -168,11 +178,10 @@ Gravitational fall of macroscopic objects is 100% dominated by atomic nuclei (ba
 
 Photons are defined as three-dimensional membrane interface wave packets without $b$-poles, and therefore are not directly affected by "gravitational deflection force" ($b$-pole shear torque). Their deflection in gravitational fields (gravitational lensing effect) does not originate from spacetime geometric curvature, but is an inevitable hydrodynamic consequence of **acoustic metric distortion of the propagation medium (void particle sea)**.
 
-1. **Gravitational Field Modulation of Medium State**: $b$-pole network suction from massive objects generates steady background flow velocity $\mathbf{u}_{\text{bg}}$ (space collapse) and density gradient $\nabla \rho$ within the three-dimensional membrane.
-2. **Emergence of Effective Acoustic Metric**: According to the Unruh-Visser analogy in fluid dynamics, in a compressible fluid with background flow $\mathbf{u}_{\text{bg}}$ and variable sound speed $c(w)$, the propagation of interface waves (photons) strictly follows the effective acoustic metric $g_{\mu\nu}^{\text{eff}}$:
-   $$ g_{\mu\nu}^{\text{eff}} = \frac{\rho}{c} \begin{pmatrix} -(c^2 - |\mathbf{u}_{\text{bg}}|^2) & -(\mathbf{u}_{\text{bg}})_j \\ -(\mathbf{u}_{\text{bg}})_i & \delta_{ij} \end{pmatrix} $$
-3. **Hydrodynamic Reconstruction of Geodesic Deflection**: As interface waves, photon wavefront normals necessarily follow the **null geodesic equation** ($ds^2 = 0$) of this acoustic metric. When photons pass near mass $M$, the radial component of background flow $\mathbf{u}_{\text{bg}}$ and the gradient of density $\rho$ together cause the effective refractive index $n_{\text{eff}}$ to produce a gradient. By solving the variable sound speed Helmholtz equation or Fermat's principle $\delta \int n_{\text{eff}} dl = 0$, the deflection angle $\Delta \theta = \frac{4GM}{bc^2}$ can be rigorously derived, completely consistent with general relativity predictions.
-**Conclusion**: Photons do not "sense" gravity; they merely "go with the flow" in the fluid acoustic medium bent by gravitational fields ($b$-pole sink flow).
+* **Gravitational Field Modulation of Medium State**: The $b$-pole network suction from massive objects generates steady background flow velocity $\mathbf{u}_{\text{bg}}$ (space collapse) and density gradient $\nabla \rho$ within the three-dimensional membrane.
+* **Emergence of Effective Acoustic Metric**: According to the Unruh-Visser analogy in fluid dynamics, in a compressible fluid with background flow $\mathbf{u}_{\text{bg}}$ and variable sound speed $c(w)$, the propagation of interface waves (photons) strictly follows the effective acoustic metric $g_{\mu\nu}^{\text{eff}}$.
+* **Hydrodynamic Reconstruction of Geodesic Deflection**: As interface waves, photon wavefront normals necessarily follow the null geodesic equation of this acoustic metric. By solving the variable sound speed Helmholtz equation or Fermat's principle, the deflection angle $\Delta \theta = \frac{4GM}{bc^2}$ can be rigorously derived, completely consistent with general relativity predictions.
+  **Conclusion**: Photons do not "sense" gravity; they merely "go with the flow" in the fluid acoustic medium bent by gravitational fields ($b$-pole sink flow).
 
 ---
 
@@ -192,32 +201,25 @@ Abandoning "passive fluid ram pressure" or "abstract geometric projection" inter
 
 #### 7.2.1 Time Dilation: Power Budget Squeeze
 
-Atomic clock frequency $\nu_0$ is proportional to the radial power $P_{\text{tot}}$ driving intrinsic topological cycles in the stationary frame.
-When a particle is in uniform self-consistent steady state at velocity $v$, the deflection angle is locked at $\theta = \arcsin(v/c)$. According to the geometric identity of power distribution, the radial power available to drive intrinsic oscillations **must** be reduced to:
+Atomic clock frequency $\nu_0$ is proportional to the radial power $P_{\text{tot}}$ driving intrinsic topological cycles in the stationary frame. When a particle is in uniform self-consistent steady state at velocity $v$, the deflection angle is locked at $\theta = \arcsin(v/c)$. The radial power available to drive intrinsic oscillations must be reduced to:
 
 $$
 P_{\perp} = P_{\text{tot}} \cos\theta = P_{\text{tot}} \sqrt{1 - v^2/c^2}
 $$
 
-Since intrinsic process rates are strictly proportional to available radial power, the observed frequency becomes:
-
-$$
-\nu(v) = \nu_0 \frac{P_{\perp}}{P_{\text{tot}}} = \frac{\nu_0}{\gamma}
-$$
-
-**Physical Essence**: Time dilation is not that the environment slows down the clock, but that the system **must allocate part of its power budget to tangential overflow** to maintain motion steady state (paying inertial deflection force). This is the "energy tax" for maintaining the existence of motion state. All types of clocks share the same $P_{\text{tot}}$ budget, and therefore must slow down synchronously.
+Observed frequency becomes $\nu(v) = \nu_0 / \gamma$. **Physical Essence**: Time dilation is not that the environment slows down the clock, but that the system **must allocate part of its power budget to tangential overflow** to maintain motion steady state (paying steady-state anchoring pressure difference). This is the "energy tax" for maintaining the existence of motion state.
 
 #### 7.2.2 Exit Recoil Feedback and Lepton-Baryon Higher-Order Deviations
 
-Inlet deflection determines the geometric main term $\cos\theta$ of power distribution; while the exit (source end) jet recoil modulates the **spatial coupling degree $\eta_{\perp}(\theta)$** between four-dimensional radial oscillation and three-dimensional membrane by modifying local spatial curvature (fluid dynamic gradient field).
+Inlet deflection determines the geometric main term $\cos\theta$ of power distribution; while the exit (source end) jet recoil modulates the **spatial coupling degree $\eta_{\perp}(\theta)$** between four-dimensional radial oscillation and three-dimensional membrane by modifying local spatial curvature.
 
 * **Proton (Baryon)**: $b$-pole jet recoil presents near-spherically symmetric distribution within the three-dimensional membrane, with gentle modulation of $\eta_{\perp}^{(p)}(\theta)$.
 * **Electron (Lepton)**: $q$-pole jet recoil presents oblate disk-like distribution on the four-dimensional side, with drastic modulation of $\eta_{\perp}^{(e)}(\theta)$.
-  The complete time dilation formula is $\nu(v) = \nu_0 \cdot \gamma^{-1} \cdot \eta_{\perp}(v)$. Standard relativity corresponds to the ideal limit of $\eta_{\perp}=1$. This framework predicts: **At extremely high precision or extremely high $\gamma$, measurable systematic deviations will appear between the time dilation factors of lepton clocks (e.g., muon decay/electron oscillation) and baryon clocks (nuclear energy level transitions)**.
+  The complete time dilation formula is $\nu(v) = \nu_0 \cdot \gamma^{-1} \cdot \eta_{\perp}(v)$. This framework predicts: **At extremely high precision or extremely high $\gamma$, measurable systematic deviations will appear between the time dilation factors of pure lepton clocks and baryon clocks**.
 
 #### 7.2.3 Mass-Velocity Relation (Relativistic Mass Increase) and Length Contraction
 
-* **Mass-Velocity Relation**: As $v \to c$, $\theta \to \pi/2$. When external fields attempt to further increase the deflection angle, they face geometric projection attenuation (thrust increment $\Delta F \propto \cos\theta \cdot \Delta\theta \to 0$) and nonlinear divergence of intrinsic reverse driving force caused by extreme distortion of the vortex filament network. Macroscopically, this manifests as "inertial impedance" increasing sharply, naturally deriving $m_{\text{eff}} = \gamma m_0$.
+* **Mass-Velocity Relation**: As $v \to c$, $\theta \to \pi/2$. When external fields attempt to further increase the deflection angle, they face geometric projection attenuation and nonlinear divergence of intrinsic reverse driving force caused by extreme distortion of the vortex filament network. Macroscopically, this manifests as "inertial impedance" increasing sharply, naturally deriving $m_{\text{eff}} = \gamma m_0$.
 * **Length Contraction**: At high speeds, the oncoming fluid impact physically compresses the forward overflow field, and the matrix high-pressure region topologically shifts backward, jointly causing the effective length in the direction of motion to contract: $L_{\parallel} = L_0 / \gamma$.
 
 ---
@@ -231,7 +233,7 @@ Virtual particle surface traveling waves self-sustain along closed geodesics, wi
 ## 9. Testable Predictions
 
 1. **Free Electron Absolute Gravitational Weightlessness (Core Test)**: In an ultra-high vacuum environment with shielded stray electric fields, regardless of the motion state of the electron beam, its gravitational acceleration strictly approaches zero ($a_e \approx 0$). The stray electric field in the historical Witteborn-Fairbank experiment was actually a drag electric field induced by the relative "floating up" of electron gas inside the metal tube (baryons) as the tube fell under gravity.
-2. **Lepton-Baryon Clock Time Dilation Higher-Order Deviation (New Core Prediction)**: Due to the fundamental difference in exit recoil-induced spatial coupling degree $\eta_{\perp}(\theta)$ between electrons (planar symmetric $q$-core) and protons (volumetric symmetric $b$-core), at ultra-high energy regions with $\gamma > 100$ or ultra-high precision of $10^{-15}$, the time dilation factors of pure lepton clocks (e.g., muon decay/electron oscillation) and baryon clocks (nuclear energy level transitions) will exhibit distinguishable deviations.
+2. **Lepton-Baryon Clock Time Dilation Higher-Order Deviation (New Core Prediction)**: Due to the fundamental difference in exit recoil-induced spatial coupling degree $\eta_{\perp}(\theta)$ between electrons (planar symmetric $q$-core) and protons (volumetric symmetric $b$-core), at ultra-high energy regions with $\gamma > 100$ or ultra-high precision of $10^{-15}$, the time dilation factors of pure lepton clocks and baryon clocks will exhibit distinguishable deviations.
 3. **Equivalence Principle Electromagnetic Drag Limit**: Under extremely strong gravitational fields, if electromagnetic binding force is insufficient to overcome the relative slip caused by electron inertial reverse driving force and gravitational weightlessness, the macroscopic equivalence principle will break down ($\eta \sim 10^{-16}$).
 4. **High-Frequency Gravitational Wave Dispersion and Microscopic Cross-Section Running**: The void medium may exhibit extremely weak dispersion $\Delta v/c \sim 10^{-18}$ in the $f > 10^3$ Hz frequency band; in high-energy collision experiments, the effective cross-section $\sigma_{\text{eff}}$ shows nonlinear running with increasing center-of-mass energy, and naturally saturates when the probe scale approaches $\ell_{\text{min}}$, eliminating point coupling divergence.
 
@@ -242,10 +244,9 @@ Virtual particle surface traveling waves self-sustain along closed geodesics, wi
 This paper reconstructs the fluid topological origins of mass, inertia, and universal gravitation using void particle fluid and neutrino topological wave oscillators as the sole ontology. Core breakthroughs include:
 
 1. **Paradigm Shift**: Establishing force as an adaptive redirection byproduct of the mass-intrinsic topological matrix in response to fluid full gradient fields and angular momentum inflow spectra under constant power constraint.
-2. **Deflection Self-Drive and Time Dilation**: Completely de-geometrizing special relativity time dilation, reducing it to the intrinsic power budget squeeze cost necessary to maintain uniform motion steady state (deflection-overflow-resistance closed loop).
-3. **Fine Topology and Lepton Weightlessness**: Based on the "four-dimensional tangent-three-dimensional intrinsic" hierarchical geometry, establishing the configuration difference between electron planar symmetry ($q$-core $b$-shell) and proton volumetric symmetry ($b$-core $q$-shell), naturally deriving the prediction of free electron absolute gravitational weightlessness, revealing that the macroscopic equivalence principle is actually a low-energy illusion emerging from baryon-dominated systems through electromagnetic drag.
-
-This framework belongs to low-energy effective field theory, aiming to provide testable substantive physical mechanisms for mass, inertia, and fundamental forces, and opening a new door for humanity to glimpse the ultimate truth of the theory of everything at the boundaries of equivalence principle and ultra-high precision time dilation tests.
+2. **Cross-Dimensional Duality and "Trigger-Self-Drive" Essence of Inertia**: Completely clarifying that the added mass force generated by displaced fluid is merely the external trigger for deflection, while the inertia force itself is the reverse self-driven momentum overflow produced by constant power redirection after deflection. Clarifying the cross-dimensional duality between "electromagnetic acceleration (four-dimensional drive, three-dimensional resistance)" and "gravitational acceleration (three-dimensional drive, four-dimensional resistance)", as well as the transience of inertial resistance and the zeroing mechanism in constant velocity steady state.
+3. **Cross-Dimensional Isomorphic Closure of Equivalence Principle**: Proving that gravitational mass (three-dimensional $b$-pole gradient capture) and inertial mass (four-dimensional $q$-pole displacement resistance) are strictly isomorphic due to rigid interlocking, while simultaneously revealing the fundamental breaking of the equivalence principle due to free electrons having their "three-dimensional driving end" disabled.
+4. **Deflection Self-Drive and Time Dilation**: Completely de-geometrizing special relativity time dilation, reducing it to the intrinsic power budget squeeze cost necessary to maintain uniform motion steady state (deflection-overflow-resistance closed loop).
 
 ---
 
@@ -253,14 +254,14 @@ This framework belongs to low-energy effective field theory, aiming to provide t
 
 Einstein once summarized the geometric essence of general relativity with "matter tells spacetime how to curve, spacetime tells matter how to move". In the Void Universe Hypothesis, this abstract geometric suspension is completely transformed into computable fluid topological dynamics, endowing spacetime curvature with real physical flesh:
 
-**"Matter tells fluid how to generate gradients"**: Massive objects (baryon collections), through their massive aggregated $b$-pole network within the three-dimensional membrane, continuously pump void particles, establishing a steady radial sink flow and momentum flux divergence (i.e., coupled field of fluid pressure gradient $\nabla p$, density gradient $\nabla \rho$, and velocity gradient $\nabla \mathbf{u}$) within the three-dimensional membrane pointing to the center of mass. This is the fluid substance of "spacetime curvature".
+* **"Matter tells fluid how to generate gradients"**: Massive objects (baryon collections), through their massive aggregated $b$-pole network within the three-dimensional membrane, continuously pump void particles, establishing a steady radial sink flow and momentum flux divergence (i.e., coupled field of fluid pressure gradient $\nabla p$, density gradient $\nabla \rho$, and velocity gradient $\nabla \mathbf{u}$) within the three-dimensional membrane pointing to the center of mass. This is the fluid substance of "spacetime curvature".
+* **"Fluid gradients tell matrix how to deflect"**: Test particles (baryons) are immersed in this full gradient field, and their finite-scale $b$-pole aggregation control volume experiences net fluid torque due to non-uniform pressure and shear environment. To maintain constant power, the topological matrix undergoes adaptive deflection and overflows tangential momentum, macroscopically manifesting as gravitational accelerated fall along "geodesics".
+* **Topological Boundary of Equivalence Principle**: This reconstruction profoundly reveals that "sensing curvature" is not an absolute universal property of the universe, but strictly depends on specific topological hardware. Free electrons, lacking a spatially symmetric $b$-pole aggregation network within the three-dimensional membrane, cannot effectively sense the fluid full gradient field within the three-dimensional membrane, thus traveling "absolute straight lines" in the fluid sense (manifesting as absolute gravitational weightlessness). The strict validity of the macroscopic equivalence principle is essentially only a low-energy illusion emerging from baryon-dominated systems through electromagnetic drag.
 
-**"Fluid gradients tell matrix how to deflect"**: Test particles (baryons) are immersed in this full gradient field, and their finite-scale $b$-pole aggregation control volume experiences net fluid torque due to non-uniform pressure and shear environment. To maintain constant power, the topological matrix undergoes adaptive deflection and overflows tangential momentum, macroscopically manifesting as gravitational accelerated fall along "geodesics".
+Emerging from the fog of geometry, returning to the reality of fluid. The Void Universe Hypothesis not only provides substantive physical commentary on Einstein's intuition, but also opens a completely new door for humanity to glimpse the ultimate truth of the theory of everything at the boundaries of equivalence principle.
 
-**Topological Boundary of Equivalence Principle**: This reconstruction profoundly reveals that "sensing curvature" is not an absolute universal property of the universe, but strictly depends on specific topological hardware. Free electrons, lacking a spatially symmetric $b$-pole aggregation network within the three-dimensional membrane, cannot effectively sense the fluid full gradient field within the three-dimensional membrane, thus traveling "absolute straight lines" in the fluid sense (manifesting as absolute gravitational weightlessness). The strict validity of the macroscopic equivalence principle is essentially only a low-energy illusion emerging from baryon-dominated systems through electromagnetic drag.
+---
 
-Emerging from the fog of geometry, returning to the reality of fluid. The Void Universe Hypothesis not only provides substantive physical commentary on Einstein's intuition, but also opens a new door for humanity to glimpse the ultimate truth of the theory of everything at the boundaries of equivalence principle.
-
-**Version**: v5.0 | **Last Updated**: May 2026
-**Aligned Branches**: *Origin of Dimensions*, *Electromagnetism Reconstruction*, *Quantum Field Theory Reconstruction*, *Void Universe Hypothesis* Core Qualitative Description
-**Declaration**: All derivations in this paper are self-consistently performed within the given ontological assumptions and effective field theory boundaries. Abandoning passive geometric projection and absolute flow velocity assumptions, gravity is strictly anchored to full momentum flux gradient field response, and time dilation is strictly anchored to power budget squeeze mechanism under deflection self-driven steady state.
+**Version**: v7.0 | **Last Updated**: May 2026
+**Aligned Branches**: *Origin of Dimensions*, *Electromagnetism Reconstruction*, *Quantum Field Theory Reconstruction*, *Void Universe Hypothesis*, *Nature of Force*, *Action Principle Reconstruction* Core Qualitative Description
+**Declaration**: All derivations in this paper are self-consistently performed within the given ontological assumptions and effective field theory boundaries. Abandoning passive geometric projection and absolute flow velocity assumptions, gravity is strictly anchored to full momentum flux gradient field response, inertia is strictly anchored to "cross-dimensional dual mechanism" and "transient-steady-state mechanism with displacement resistance as trigger and reverse self-driven overflow as ontology", and time dilation is strictly anchored to power budget squeeze mechanism under deflection self-driven steady state.
