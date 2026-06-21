@@ -41,6 +41,7 @@ Within this latest model, you will discover:
 13. **[Origin of Light Speed](Void%20Universe%20Hypothesis/Microscopic%20Origin/Origin%20of%20Light%20Speed.md)** - Eigen sound speed of void particle fluid and packing density modulation mechanism.
 14. **[Origin of Phase Transition](Void%20Universe%20Hypothesis/Microscopic%20Origin/Origin%20of%20Phase%20Transition.md)** - Hydrodynamic reconstruction of macroscopic matter state evolution and topological network steady-state switching.
 15. **[Water and Hydrogen Bonds](Void%20Universe%20Hypothesis/Quantitative%20Deduction/Water%20and%20Hydrogen%20Bonds.md)** - Quantitative fluid topological reconstruction of water's liquid-liquid phase transition, density anomaly, and isotope effect.
+16. **[Fractals and Dimensions](Void%20Universe%20Hypothesis/Quantitative%20Deduction/Fractals%20and%20Dimensions.md)** - Supplementary derivation to *Origin of Dimensions*: Rigorous mathematical proof of many-body stacking barrier, vector angle constraint, and topological emergence of $S^3$ cross-section.
 
 ---
 
